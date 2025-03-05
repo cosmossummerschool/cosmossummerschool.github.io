@@ -23,23 +23,23 @@ timeline:
   - '7:00 PM'
   - '7:30 PM'
 schedule:
-  - name: Tuesday
+  - name: Monday
     events:
-      - name: Welcome reception and poster presentation
-        start: 5:00 PM
+      - name: "Welcome reception and poster presentation"
+        start: 4:00 PM
         end: 7:00 PM
         class: other
-  - name: Wednesday
+  - name: Tuesday
     events:
-      - name: "Keynote: Building a Science of the Sociome"
+      - name: "Keynote: Experimental Social Sciences "
         start: 9:00 AM
         end: 10:00 AM
-        instructor: Crofoot
+        instructor: Kameda
         class: lecture
       - name: "Introduction & Opening Remarks"
         start: 10:00 AM
         end: 10:30 AM
-        instructor: Wu & Toyokawa
+        instructor: Toyokawa & Wu
         class: lecture
       - name: Coffee break
         start: 10:30 AM
@@ -48,16 +48,16 @@ schedule:
       - name: "Tutorial 1: Designing a social learning environment"
         start: 11:00 AM
         end: 12:00 PM
-        instructor: Wu & Toyokawa
+        instructor: Toyokawa & Wu
         class: tutorial
       - name: Lunch
         start: 12:00 PM
         end: 1:30 PM
         class: other
-      - name: Agent-based models of cultural evolution
+      - name: "Lecture 1"
         start: 1:30 PM
         end: 2:30 PM
-        instructor: Acerbi
+        instructor: TBD
         class: lecture
       - name: Coffee break
         start: 2:30 PM
@@ -66,28 +66,28 @@ schedule:
       - name: "Tutorial 2: Models of social and individual learning"
         start: 3:00 PM
         end: 4:30 PM
-        instructor: Wu & Toyokawa
+        instructor: Toyokawa & Wu
         class: tutorial
-      - name: Coordination and collective behavior
+      - name: "Lecture 2"
         start: 4:30 PM 
         end: 5:30 PM 
-        instructor: Hawkins
+        instructor: TBD
         class: lecture
       - name: Introduction to group projects
         start: 5:30 PM 
-        end: 6:30 PM 
-        instructor: Wu & Toyokawa
-        class: other
-      - name: Biergarten
+        end: 6:00 PM 
+        instructor: Toyokawa & Wu
+        class: group
+      - name: Dinner 
         start: 7:00 PM 
         end: 9:00 PM 
         class: other
-  - name: Thursday
+  - name: Wednesday
     events:
-      - name: Learning to coordinate on shared task abstractions
+      - name: "Lecture 3"
         start: 9:00 AM
         end: 10:00 AM
-        instructor: Fan
+        instructor: TBD
         class: lecture
       - name: Coffee break
         start: 10:00 AM
@@ -96,61 +96,71 @@ schedule:
       - name: "Tutorial 3: Model comparison and robustness"
         start: 10:30 AM
         end: 12:00 PM
-        instructor: Wu & Toyokawa 
+        instructor: Toyokawa & Wu
         class: tutorial
       - name: Lunch and group work
         start: 12:00 PM
         end: 3:00 PM
-        class: other
+        class: group
       - name: Coffee break
         start: 3:00 PM
         end: 3:30 PM
         class: other
-      - name: Inferring process from pattern in cultural evolution
+      - name: "Lecture 4"
         start: 3:30 PM 
         end: 4:30 PM 
         class: lecture
-        instructor: Kandler
-      - name:  "Collective computation across scales of biological organisation"
+        instructor: TBD
+      - name:  Lecture 5
         start: 4:30 PM 
         end: 5:30 PM 
         class: lecture
-        instructor: Sridhar
+        instructor: TBD
       - name: Mentorship session
         start: 5:30 PM 
         end: 8:00 PM 
         class: other
-  - name: Friday
+  - name: Thursday
     events:
-      - name: "The computational structure of human Theory of Mind"
+      - name: "Lecture 6"
         start: 9:00 AM
         end: 10:00 AM
-        instructor: Jara-Ettinger
+        instructor: TBD
         class: lecture
       - name: Coffee break
         start: 10:00 AM
         end: 10:30 AM
         class: other
-      - name: "Tutorial 4: Cracking hierarchical Bayesian computational modeling with Stan"
+      - name: "Tutorial 4"
         start: 10:30 AM
         end: 12:00 PM
-        instructor: Zhang
+        instructor: TBD
         class: tutorial
       - name: Lunch and group work
         start: 12:00 PM
+        end: 7:00 PM
+        class: group
+      - name: Dinner
+        start: 7:00 PM
+        end: 8:00 PM
+        class: other
+  - name: Friday
+    events:
+      - name: Group presentations 1
+        start: 9:00 AM
+        end: 12:00 PM
+        class: group
+      - name: Lunch 
+        start: 12:00 PM
+        end: 1:00 PM
+        class: other
+      - name: Group presentations 2
+        start: 1:00 PM
+        end: 3:00 PM
+        class: group
+      - name: "Final Remarks"
+        start: 3:00 PM
         end: 3:30 PM
         class: other
-      - name: Coffee break
-        start: 3:30 PM
-        end: 4:00 PM
-        class: other
-      - name: Group presentations
-        start: 4:00 PM
-        end: 6:00 PM
-        class: other
-      - name: "Final Remarks"
-        start: 6:00 PM
-        end: 6:30 PM
-        class: other
- 
+
 ---

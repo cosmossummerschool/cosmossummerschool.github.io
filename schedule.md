@@ -2,11 +2,11 @@
 layout: page
 title: Schedule
 nav_order: 6
-description: COSMOS 2023 schedule.
+description: COSMOS 2025 schedule.
 ---
 
-# COSMOS 2023 Schedule
-Tuesday July 4th - Friday July 7th, all times are CET
+# COSMOS 2025 Schedule
+Monday September 29th - Friday October 3rd, all times are GMT+9 (Tokyo local time)
 
 
 - Tuesday: poster session/reception takes place in the [Center for Visual Computing of Collectives (Building ZT, University of Konstanz)](https://goo.gl/maps/gGYv7CGg2KDfLRoV7){:target="_blank"}. A layout of the University Campus can be found [here](https://www.uni-konstanz.de/universitaet/ueber-die-universitaet-konstanz/anreise-lageplan-und-oeffnungszeiten/){:target="_blank"}

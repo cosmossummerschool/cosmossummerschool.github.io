@@ -1,1 +1,1 @@
-# cosmos-konstanz.github.io
+# cosmossummerschool.github.io
