@@ -18,7 +18,7 @@ tagline: COSMOS Summer School - Tokyo 2025
 description: The Computational Summer school on Modeling Social and collective behavior (COSMOS)
 author: Charley Wu and Wataru Toyokawa
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'cosmossummerschool.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://cosmossummerschool.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
