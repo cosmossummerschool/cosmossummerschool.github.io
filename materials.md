@@ -10,15 +10,47 @@ description: Course materials
 {{ module }}
 {% endfor %}
 
+
+
+
+
+# COSMOS 2023 - Talk recordings
+
+
+**Tutorial 1: Designing a social learning environment -- Charley Wu & Wataru Toyokawa**
+
+[Code Notebook](https://cosmos-konstanz.github.io/notebooks/tutorial-1-n-armed-task.html){:target="_blank"} 
+
+[slides](https://cosmos-konstanz.github.io/downloads/CosmosTutorial1.pdf){:target="_blank"}
+
+{% include youtube.html id='cvfxoX1IDHA' %}
+
+
+
+**Tutorial 2:  Models of social and individual learning -- Charley Wu & Wataru Toyokawa**
+
+[Code Notebook](https://cosmos-konstanz.github.io/notebooks/tutorial-2-models-of-learning.html){:target="_blank"} 
+
+[slides](https://cosmos-konstanz.github.io/downloads/CosmosTutorial2.pdf){:target="_blank"}
+
+{% include youtube.html id='ZIKv5A1qewA' %}
+
+
+**Tutorial 3: Model comparison and robustness -- Charley Wu & Wataru Toyokawa**
+
+[Code Notebook](https://cosmos-konstanz.github.io/notebooks/tutorial-3-model-comparisons.html){:target="_blank"} 
+
+[slides](https://cosmos-konstanz.github.io/downloads/CosmosTutorial3.pdf){:target="_blank"}
+
+{% include youtube.html id='H7gFVgYNcII' %}
+
+
+
 **Tutorial 4: Cracking hierarchical Bayesian computational modeling with Stan -- Lei Zhang**
 
 [slides and code](https://github.com/lei-zhang/talks_and_workshops/tree/main/20230707_COSMOS){:target="_blank"}
 
 {% include youtube.html id='Nw_xIJet5m4' %}
-
-
-
-# COSMOS 2023 - Talk recordings
 
 **Meg Crofoot - Building a science of sociome**<br>
 {% include youtube.html id='9BZEYrQVwfE' %}

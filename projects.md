@@ -13,9 +13,11 @@ description: >-
 ---
 
   
-  
+# Group projects
 
-## Group projects
+*Coming soon*
+
+## COSMOS 2023 Group projects
 
 You can find a more detailed overview about each project [here](https://docs.google.com/presentation/d/1y2qfXVWEgXsvuHgZ7YbZrdSH-nGg-fyhg13a6hatKks/edit?usp=sharing).  
 

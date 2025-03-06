@@ -14,11 +14,11 @@ Participants should have a basic background knowledge in elementary statistics (
 
 ## What we offer
 
-Attendees will benefit from tutorials teaching the fundamentals of computational modeling in social and cultural settings, attend talks by leading researchers from around the world, and gain career advice during mentorship sessions. New for 2023, we will also have group projects, where participants can directly apply their new knowledge on a number of provided dataset under the supervision of our instructors.  
+Attendees will benefit from tutorials teaching the fundamentals of computational modeling in social and cultural settings, attend talks by leading researchers from around the world, and gain career advice during mentorship sessions. Returning in 2025 we will also have group projects, where participants can directly apply their new knowledge on a number of provided dataset under the supervision of our instructors.  
 
  
 ## Free to apply, free accomodations, and travel stipends
-COSMOS 2023 is free to attend, and successful applications will be provided free shared accomodations. In addition, we will provide travel stipends for ~15 attendees on the basis of merit and need. 
+COSMOS 2025 is free to attend, and successful applications will be provided with free shared accomodations. In addition, we will provide travel stipends for a small number of attendees on the basis of merit and need. 
 
 ## To apply, you will need to submit the following materials as a single pdf
 
@@ -26,4 +26,4 @@ COSMOS 2023 is free to attend, and successful applications will be provided free
 1. Curriculum Vitae 
 1. One letter of recommendation
 
-You can submit your application by **April 14th**: [application portal](https://my.forms.app/form/64021072090187c47423a060){:target="_blank"}.
+You can submit your application by **April 25th**: [application portal](https://c7bxswwz.forms.app/cosmos-tokyo-2025-application){:target="_blank"}.

@@ -31,7 +31,7 @@
   },"5": {
     "doc": "About",
     "title": "Applications",
-    "content": "Submit your application by April 14th. Visit the application page. page for details. ",
+    "content": "Submit your application by April 25th. Visit the application page. page for details. ",
     "url": "http://localhost:4000/about/#applications",
     "relUrl": "/about/#applications"
   },"6": {
@@ -139,19 +139,19 @@
   },"23": {
     "doc": "Application Portal",
     "title": "What we offer",
-    "content": "Attendees will benefit from tutorials teaching the fundamentals of computational modeling in social and cultural settings, attend talks by leading researchers from around the world, and gain career advice during mentorship sessions. New for 2023, we will also have group projects, where participants can directly apply their new knowledge on a number of provided dataset under the supervision of our instructors. ",
+    "content": "Attendees will benefit from tutorials teaching the fundamentals of computational modeling in social and cultural settings, attend talks by leading researchers from around the world, and gain career advice during mentorship sessions. Returning in 2025 we will also have group projects, where participants can directly apply their new knowledge on a number of provided dataset under the supervision of our instructors. ",
     "url": "http://localhost:4000/application/#what-we-offer",
     "relUrl": "/application/#what-we-offer"
   },"24": {
     "doc": "Application Portal",
     "title": "Free to apply, free accomodations, and travel stipends",
-    "content": "COSMOS 2023 is free to attend, and successful applications will be provided free shared accomodations. In addition, we will provide travel stipends for ~15 attendees on the basis of merit and need. ",
+    "content": "COSMOS 2025 is free to attend, and successful applications will be provided with free shared accomodations. In addition, we will provide travel stipends for a small number of attendees on the basis of merit and need. ",
     "url": "http://localhost:4000/application/#free-to-apply-free-accomodations-and-travel-stipends",
     "relUrl": "/application/#free-to-apply-free-accomodations-and-travel-stipends"
   },"25": {
     "doc": "Application Portal",
     "title": "To apply, you will need to submit the following materials as a single pdf",
-    "content": ". | One page cover letter describing your motivation to attend the summer school and how you think it will inform your research | Curriculum Vitae | One letter of recommendation | . You can submit your application by April 14th: application portal. ",
+    "content": ". | One page cover letter describing your motivation to attend the summer school and how you think it will inform your research | Curriculum Vitae | One letter of recommendation | . You can submit your application by April 25th: application portal. ",
     "url": "http://localhost:4000/application/#to-apply-you-will-need-to-submit-the-following-materials-as-a-single-pdf",
     "relUrl": "/application/#to-apply-you-will-need-to-submit-the-following-materials-as-a-single-pdf"
   },"26": {
@@ -162,10 +162,10 @@
     "relUrl": "/application/"
   },"27": {
     "doc": "COSMOS",
-    "title": "COSMOS Summer School",
+    "title": "COSMOS Summer School - Tokyo 2025",
     "content": "The Computational Summer school on Modeling Social and collective behavior (COSMOS) . ",
-    "url": "http://localhost:4000/#cosmos-summer-school",
-    "relUrl": "/#cosmos-summer-school"
+    "url": "http://localhost:4000/#cosmos-summer-school---tokyo-2025",
+    "relUrl": "/#cosmos-summer-school---tokyo-2025"
   },"28": {
     "doc": "COSMOS",
     "title": "COSMOS 2025 lineup confirmed",
@@ -187,7 +187,7 @@
   },"31": {
     "doc": "Instructors",
     "title": "Organizers",
-    "content": "Charley Wu . charley.wu[at]uni-tuebingen[dot]de . Dr Charley Wu is the PI of the Human and Machine Cognition Lab at the University of Tübingen, and incoming Professor of Computational Cognitive Science at TU Darmstadt. Using a combination of statistical and machine learning models, his team seeks to understand the cognitive shortcuts that allow humans to learn efficiently and behave intelligently, both individually and in groups. Drawing on an extensive background in computational modeling of behavior, Charley will provide students with a gentle introduction to the fundamentals of computational modeling in social settings. Wataru Toyokawa . wataru.toyokawa[at]riken[dot]jp . Dr Wataru Toyokawa is a research scientist at the University of Konstanz, and is the PI of the “Collective Foraging and Social Search” project funded by CASCB. Using computational modelling and Bayesian statistical methods, coupled with real-time online behavioural experimentation, he is quantitatively approaching social behaviour and group dynamics, as well as their eco-evolutionary implications in humans and non-human animal societies. ",
+    "content": "Charley Wu . charley.wu[at]uni-tuebingen[dot]de . Dr Charley Wu is the PI of the Human and Machine Cognition Lab at the University of Tübingen, and incoming Professor of Computational Cognitive Science at TU Darmstadt. Using a combination of statistical and machine learning models, his team seeks to understand the cognitive shortcuts that allow humans to learn efficiently and behave intelligently, both individually and in groups. Drawing on an extensive background in computational modeling of behavior, Charley will provide students with a gentle introduction to the fundamentals of computational modeling in social settings. Wataru Toyokawa . wataru.toyokawa[at]riken[dot]jp . Dr Wataru Toyokawa is a Unit Leader at the Computational Group Dynamics (COGNAC) Unit at RIKEN Centre of Brain Science, Tokyo, and the project PI at the Centre for the Advanced Study of Collective Behaviour, University of Konstanz. Using computational modelling and Bayesian statistical methods, coupled with real-time online behavioural experimentation, he studies social behaviour, group dynamics, cultural evolution, as well as their eco-evolutionary implications in humans and non-human animal societies. ",
     "url": "http://localhost:4000/instructors/#organizers",
     "relUrl": "/instructors/#organizers"
   },"32": {
@@ -217,25 +217,25 @@
   },"36": {
     "doc": "Course Materials",
     "title": "Tutorial 1: Designing a social learning environment - Charley Wu &amp; Wataru Toyokawa",
-    "content": "Code Notebook . slides . ",
+    "content": "Coming soon . ",
     "url": "http://localhost:4000/materials/#tutorial-1-designing-a-social-learning-environment-charley-wu-wataru-toyokawa",
     "relUrl": "/materials/#tutorial-1-designing-a-social-learning-environment-charley-wu-wataru-toyokawa"
   },"37": {
     "doc": "Course Materials",
     "title": "Tutorial 2:  Models of social and individual learning - Charley Wu &amp; Wataru Toyokawa",
-    "content": "Code Notebook . slides . ",
+    "content": "Coming soon . ",
     "url": "http://localhost:4000/materials/#tutorial-2-models-of-social-and-individual-learning-charley-wu-wataru-toyokawa",
     "relUrl": "/materials/#tutorial-2-models-of-social-and-individual-learning-charley-wu-wataru-toyokawa"
   },"38": {
     "doc": "Course Materials",
     "title": "Tutorial 3: Model comparison and robustness - Charley Wu &amp; Wataru Toyokawa",
-    "content": "Code Notebook . slides . Tutorial 4: Cracking hierarchical Bayesian computational modeling with Stan – Lei Zhang . slides and code . ",
+    "content": "Coming soon . ",
     "url": "http://localhost:4000/materials/#tutorial-3-model-comparison-and-robustness-charley-wu-wataru-toyokawa",
     "relUrl": "/materials/#tutorial-3-model-comparison-and-robustness-charley-wu-wataru-toyokawa"
   },"39": {
     "doc": "Course Materials",
     "title": "COSMOS 2023 - Talk recordings",
-    "content": "Meg Crofoot - Building a science of sociome . Alberto Acerbi - Agent-based models of cultural evolution . Robert Hawkins - Coordination and collective behavior . Judy Fan - Learning to coordinate on shared task abstractions . Anne Kandler - Inferring process from pattern in cultural evolution . Vivek Hari Sridhar - Collective computation across scales of biological organisation . Julian Jara-Ettinger - The computational structure of human Theory of Mind . ",
+    "content": "Tutorial 1: Designing a social learning environment – Charley Wu &amp; Wataru Toyokawa . Code Notebook . slides . Tutorial 2: Models of social and individual learning – Charley Wu &amp; Wataru Toyokawa . Code Notebook . slides . Tutorial 3: Model comparison and robustness – Charley Wu &amp; Wataru Toyokawa . Code Notebook . slides . Tutorial 4: Cracking hierarchical Bayesian computational modeling with Stan – Lei Zhang . slides and code . Meg Crofoot - Building a science of sociome . Alberto Acerbi - Agent-based models of cultural evolution . Robert Hawkins - Coordination and collective behavior . Judy Fan - Learning to coordinate on shared task abstractions . Anne Kandler - Inferring process from pattern in cultural evolution . Vivek Hari Sridhar - Collective computation across scales of biological organisation . Julian Jara-Ettinger - The computational structure of human Theory of Mind . ",
     "url": "http://localhost:4000/materials/#cosmos-2023---talk-recordings",
     "relUrl": "/materials/#cosmos-2023---talk-recordings"
   },"40": {
@@ -247,46 +247,52 @@
   },"41": {
     "doc": "Group projects",
     "title": "Group projects",
-    "content": "You can find a more detailed overview about each project here. P1: Wisdom or madness of crowds? (based on Toyokawa, Whalen &amp; Laland (2019)) . Investigate human choice behaviour in a three-armed bandit task to see when social learning is helpful and when it isn’t. | Beginner friendly | Model code written in R | Data and code are here | . P2: Social learning in correlated environments (based on Witt, Toyokawa, Lala, Gaissmaier &amp; Wu (2023)) . Investigate how humans integrate social information when it is positively correlated in a multi-armed bandit task. | Advanced | Model code written in Python | Data and code are here | . P3: Learning other people’s values based on the decisions they make (based on Jern, Lucas &amp; Kemp (2017)) . Simulate inverse decision-making to understand an agent’s prefrences. | Beginner friendly | No previous code to be used - choose your own programming language! | Data are here | . P4: Tracking competence and preference inference from spatial navigation (based on Jara-Ettinger, Schulz &amp; Tenenbaum (2020)) . Simulate an artificial agent navigating an environment, and an observer inferring its preferences and competence. Compare how well this matches human ratings. | Advanced | Model code written in Python (or code your own MDP) | Data are here in the Data folder and code (if desired) is here | . P5: Learning to communicate about shared procedural abstractions (based on McCarthy, Hawkins, Wang, Holdaway &amp; Fan (2021)) . Replicate or expand on an analysis of how human participants effectively communicate in a physical assembly task. | Beginner friendly or advanced, depending on whether you choose to replicate or expand | Model code written in Python | Data and code are here | . P6: Modelling algorithm-mediated social learning (inspired by Acerbi (2019) and Brady et al. (2023)) . Extend models of transmission biases including algorithmic-mediation (possibly using data from social media). | Beginner friendly | Model code written in R | Code is here | . P7: Interplay between direct learning and social learning under uncertainty (based on Zhang &amp; Gläscher (2020)) . Work with an existing model of direct and social learning to predict human choices in an experiment or simulate agents. | Advanced | Model code written in Matlab, Stan, and R | Data and code are here) | . P8: From pattern to process (based on Kandler, Fogarty &amp; Karsdorp (2023)) . Figure out what evolutionary process underlies the distribution of a population’s cultural traits in five datasets. | Beginner friendly | Model code written in R, Matlab, or Julia | Data and code are here | . P9: Quantifying leadership in animal groups (based on Sridhar et al. (2023)) . Explore the effect of different pairwise predictors on leadership / social influence within groups of golden shiner fish and/or pigeons. | Beginner friendly | Model code written in Python | Data are here and code is here | . ",
+    "content": "Coming soon . ",
     "url": "http://localhost:4000/projects/",
     "relUrl": "/projects/"
   },"42": {
+    "doc": "Group projects",
+    "title": "COSMOS 2023 Group projects",
+    "content": "You can find a more detailed overview about each project here. P1: Wisdom or madness of crowds? (based on Toyokawa, Whalen &amp; Laland (2019)) . Investigate human choice behaviour in a three-armed bandit task to see when social learning is helpful and when it isn’t. | Beginner friendly | Model code written in R | Data and code are here | . P2: Social learning in correlated environments (based on Witt, Toyokawa, Lala, Gaissmaier &amp; Wu (2023)) . Investigate how humans integrate social information when it is positively correlated in a multi-armed bandit task. | Advanced | Model code written in Python | Data and code are here | . P3: Learning other people’s values based on the decisions they make (based on Jern, Lucas &amp; Kemp (2017)) . Simulate inverse decision-making to understand an agent’s prefrences. | Beginner friendly | No previous code to be used - choose your own programming language! | Data are here | . P4: Tracking competence and preference inference from spatial navigation (based on Jara-Ettinger, Schulz &amp; Tenenbaum (2020)) . Simulate an artificial agent navigating an environment, and an observer inferring its preferences and competence. Compare how well this matches human ratings. | Advanced | Model code written in Python (or code your own MDP) | Data are here in the Data folder and code (if desired) is here | . P5: Learning to communicate about shared procedural abstractions (based on McCarthy, Hawkins, Wang, Holdaway &amp; Fan (2021)) . Replicate or expand on an analysis of how human participants effectively communicate in a physical assembly task. | Beginner friendly or advanced, depending on whether you choose to replicate or expand | Model code written in Python | Data and code are here | . P6: Modelling algorithm-mediated social learning (inspired by Acerbi (2019) and Brady et al. (2023)) . Extend models of transmission biases including algorithmic-mediation (possibly using data from social media). | Beginner friendly | Model code written in R | Code is here | . P7: Interplay between direct learning and social learning under uncertainty (based on Zhang &amp; Gläscher (2020)) . Work with an existing model of direct and social learning to predict human choices in an experiment or simulate agents. | Advanced | Model code written in Matlab, Stan, and R | Data and code are here) | . P8: From pattern to process (based on Kandler, Fogarty &amp; Karsdorp (2023)) . Figure out what evolutionary process underlies the distribution of a population’s cultural traits in five datasets. | Beginner friendly | Model code written in R, Matlab, or Julia | Data and code are here | . P9: Quantifying leadership in animal groups (based on Sridhar et al. (2023)) . Explore the effect of different pairwise predictors on leadership / social influence within groups of golden shiner fish and/or pigeons. | Beginner friendly | Model code written in Python | Data are here and code is here | . ",
+    "url": "http://localhost:4000/projects/#cosmos-2023-group-projects",
+    "relUrl": "/projects/#cosmos-2023-group-projects"
+  },"43": {
     "doc": "Schedule",
     "title": "COSMOS 2025 Schedule",
-    "content": "Monday September 29th - Friday October 3rd, all times are GMT+9 (Tokyo local time) . | Tuesday: poster session/reception takes place in the Center for Visual Computing of Collectives (Building ZT, University of Konstanz). A layout of the University Campus can be found here | Wednesday and Thursday: all sessions are held in Bodensee Forum, Reichenaustraße 21, 78467 Konstanz. | Friday: all sessions will be in Senatssaal – V 1001, University of Konstanz, Building V, Universitätsstraße 10, 78464 Konstanz. | . Add the schedule via this Google calendar link . | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | 6:00 PM | 6:30 PM | 7:00 PM | 7:30 PM | . | ",
+    "content": "Monday September 29th - Friday October 3rd, all times are GMT+9 (Tokyo local time) . | Tuesday: poster session/reception takes place in the Center for Visual Computing of Collectives (Building ZT, University of Konstanz). A layout of the University Campus can be found here | Wednesday and Thursday: all sessions are held in Bodensee Forum, Reichenaustraße 21, 78467 Konstanz. | Friday: all sessions will be in Senatssaal – V 1001, University of Konstanz, Building V, Universitätsstraße 10, 78464 Konstanz. | . | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | 6:00 PM | 6:30 PM | 7:00 PM | 7:30 PM | . | ",
     "url": "http://localhost:4000/schedule/#cosmos-2025-schedule",
     "relUrl": "/schedule/#cosmos-2025-schedule"
-  },"43": {
+  },"44": {
     "doc": "Schedule",
     "title": "Monday",
     "content": ". | Welcome reception and poster presentation 4:00 PM–7:00 PM | . | ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
-  },"44": {
+  },"45": {
     "doc": "Schedule",
     "title": "Tuesday",
     "content": ". | Keynote: Experimental Social Sciences 9:00 AM–10:00 AM Kameda | Introduction &amp; Opening Remarks 10:00 AM–10:30 AM Toyokawa &amp; Wu | Coffee break 10:30 AM–11:00 AM | Tutorial 1: Designing a social learning environment 11:00 AM–12:00 PM Toyokawa &amp; Wu | Lunch 12:00 PM–1:30 PM | Lecture 1 1:30 PM–2:30 PM TBD | Coffee break 2:30 PM–3:00 PM | Tutorial 2: Models of social and individual learning 3:00 PM–4:30 PM Toyokawa &amp; Wu | Lecture 2 4:30 PM–5:30 PM TBD | Introduction to group projects 5:30 PM–6:00 PM Toyokawa &amp; Wu | Dinner 7:00 PM–9:00 PM | . | ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
-  },"45": {
+  },"46": {
     "doc": "Schedule",
     "title": "Wednesday",
     "content": ". | Lecture 3 9:00 AM–10:00 AM TBD | Coffee break 10:00 AM–10:30 AM | Tutorial 3: Model comparison and robustness 10:30 AM–12:00 PM Toyokawa &amp; Wu | Lunch and group work 12:00 PM–3:00 PM | Coffee break 3:00 PM–3:30 PM | Lecture 4 3:30 PM–4:30 PM TBD | Lecture 5 4:30 PM–5:30 PM TBD | Mentorship session 5:30 PM–8:00 PM | . | ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
-  },"46": {
+  },"47": {
     "doc": "Schedule",
     "title": "Thursday",
     "content": ". | Lecture 6 9:00 AM–10:00 AM TBD | Coffee break 10:00 AM–10:30 AM | Tutorial 4 10:30 AM–12:00 PM TBD | Lunch and group work 12:00 PM–7:00 PM | Dinner 7:00 PM–8:00 PM | . | ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
-  },"47": {
+  },"48": {
     "doc": "Schedule",
     "title": "Friday",
     "content": ". | Group presentations 1 9:00 AM–12:00 PM | Lunch 12:00 PM–1:00 PM | Group presentations 2 1:00 PM–3:00 PM | Final Remarks 3:00 PM–3:30 PM | . | . ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
-  },"48": {
+  },"49": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": " ",
