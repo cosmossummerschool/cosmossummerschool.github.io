@@ -1,6 +1,6 @@
 ---
 name: Wataru Toyokawa
-role: Organizer2
+role: Organizer1
 email: wataru.toyokawa[at]riken[dot]jp 
 website: https://sites.google.com/site/watarutoyokawa/home
 photo: wataru.jpeg
