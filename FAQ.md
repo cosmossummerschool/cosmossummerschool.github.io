@@ -9,6 +9,9 @@ description: >-
 
 ## FAQ
 
+**Coming soon**
+
+<!-- 
 **Q: How much does it cost to participate at COSMOS?**
 
 **A:** Attendence is free for all accepted participants. In addition, we aim to provide free accomodations and a generous travel stipend to as many participants as possible, contingent on funding. The allocation of these funds will be to prioritize a diverse and inclusive summer school. 
@@ -30,6 +33,8 @@ By Train: “Bahnhof Konstanz” is the main train station. From there, you can 
 **A:** Although some basic background knowledge in elementary statistics (e.g., probability theory) and programming in R are required to master the technical skills, no prior experience with computational modeling is necessary. 
 
 
-If you have any additional questions, please [Contact Us](mailto:cosmos.konstanz@gmail.com)
+If you have any additional questions, please [Contact Us](mailto:cosmossummerschool@gmail.com)
 
 <img src="{{site.baseurl}}/assets/images/konstanz.jpeg" title="Photo by Silke Johanna Kegel">
+
+-->

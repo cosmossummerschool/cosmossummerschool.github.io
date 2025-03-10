@@ -28,5 +28,5 @@ COSMOS 2025 is free to attend, and 20 successful applications will be provided w
 You can submit your application by **April 25th**: [application portal](https://c7bxswwz.forms.app/cosmos-tokyo-2025-application){:target="_blank"}.
 
 
-Additionally you will need one **letter of recommendation**, which should be submitted separately* by the letter writer at this [link](https://c7bxswwz.forms.app/cosmos-tokyo-2025-reference){:target="_blank"}.
+Additionally you will need one **letter of recommendation**, which should be submitted separately* by the letter writer at this [link](https://c7bxswwz.forms.app/cosmos-tokyo-2025-reference){:target="_blank"}. **Coming soon**
 
