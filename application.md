@@ -20,13 +20,13 @@ Attendees will benefit from tutorials teaching the fundamentals of computational
 ## Free to apply, free accomodations, and travel stipends
 COSMOS 2025 is free to attend, and 20 successful applications will be provided with free  accomodations. In addition, we will provide travel stipends for a small number of attendees on the basis of merit and need. 
 
-## To apply, you will need to submit the following materials as a single pdf
+## To apply, you will need to submit the following materials by April 25th:
 
 1. One page cover letter describing your motivation to attend the summer school and how you think it will inform your research
-1. Curriculum Vitae 
+1. Curriculum Vitae (CV)
+1. One letter of recommendation
 
-You can submit your application by **April 25th**: [application portal](https://c7bxswwz.forms.app/cosmos-tokyo-2025-application){:target="_blank"}.
+You can submit your application (cover letter + CV combined in a single PDF) on the [application portal](https://c7bxswwz.forms.app/cosmos-tokyo-2025-application){:target="_blank"} until **April 25th** (last timezone on Earth).
 
-
-Additionally you will need one **letter of recommendation**, which should be submitted separately* by the letter writer at this [link](https://c7bxswwz.forms.app/cosmos-tokyo-2025-reference){:target="_blank"}. **Coming soon**
+Please instruct your letter writer to submit a **letter of recommendation** as a pdf at this [link](https://c7bxswwz.forms.app/cosmos-2025-tokyo-reference-letter-submission-form){:target="_blank"}, also before April 25th. Please ensure your letter writer enters your name the same as in your own application. 
 

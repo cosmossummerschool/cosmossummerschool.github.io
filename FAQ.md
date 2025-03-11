@@ -34,4 +34,4 @@ By Train: “Wako-shi (和光市; わこうし)” is the main train station. Fr
 
 If you have any additional questions, please [Contact Us](mailto:cosmossummerschool@gmail.com)
 
-<img src="{{site.baseurl}}/assets/images/konstanz.jpeg" title="Photo by Silke Johanna Kegel">
+<img src="{{site.baseurl}}/assets/images/tokyoday.jpg" title="Photo by Morio under CC3.0">
