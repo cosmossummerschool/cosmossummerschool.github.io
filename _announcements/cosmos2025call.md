@@ -19,3 +19,4 @@ For more details, check out the [overview of the summer school]({{ site.baseurl}
 ### Apply by April 25th
 
 Visit the [application portal]({{ site.baseurl}}{% link application.md %}) for more details.
+<!-- Visit the [application portal]({{ site.baseurl}}{% link application.md %}) for more details. -->
