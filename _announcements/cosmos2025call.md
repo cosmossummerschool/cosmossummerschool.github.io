@@ -18,4 +18,4 @@ For more details, check out the [overview of the summer school]({{ site.baseurl}
 
 ### Apply by April 25th
 
-Visit the [application portal](https://my.forms.app/form/621e3cf2acdd00578fe6f939){:target="_blank"} for more details.
+Visit the [application portal](https://c7bxswwz.forms.app/cosmos-tokyo-2025-application){:target="_blank"} for more details.
