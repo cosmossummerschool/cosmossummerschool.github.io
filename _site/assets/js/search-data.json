@@ -1,19 +1,19 @@
 {"0": {
     "doc": "FAQ",
     "title": "FAQ",
-    "content": "Q: How much does it cost to participate at COSMOS? . A: Attendence is free for all accepted participants. In addition, we aim to provide free accomodations and a generous travel stipend to as many participants as possible, contingent on funding. The allocation of these funds will be to prioritize a diverse and inclusive summer school. Q: Will I be able to participate online . A: We anticipate an in-person meeting, but have a contingency plan for an online workshop if meeting in person is not possible. Q: How do I get to Konstanz? . A: By Plane: The nearest airports are “Bodensee-Airport” in Friedrichshafen and Zürich Airport. From Zürich airport, you can take a train in the airport to Konstanz in 1 to 1.5hrs. By Train: “Bahnhof Konstanz” is the main train station. From there, you can take “Bus Nr. 9” to get to the University. Q: What skills or prior experience should I have in order to participate? . A: Although some basic background knowledge in elementary statistics (e.g., probability theory) and programming in R are required to master the technical skills, no prior experience with computational modeling is necessary. If you have any additional questions, please Contact Us . ",
+    "content": "Q: How much does it cost to participate at COSMOS? . A: Attendence is free for all accepted participants. In addition, we aim to provide free accomodations for 20 people and a generous travel stipend for a small number of participants. The allocation of these funds will be to prioritize a diverse and inclusive summer school. Q: Will I be able to participate online . A: We anticipate an in-person meeting as we have many interactive activities as our core curriculum, while all talks and tutorials will be available online after the event! . Q: How do I get to RIKEN Wako campus? . A: By Plane: The nearest airports are Tokyo Haneda (HND) or Narita (NRT) Airport. From these airports, you can take a train in the airport to Wakoshi station in 1 to 1.5hrs. By Train: “Wako-shi (和光市; わこうし)” is the main train station. From there, you can take a 15-minute walk to get to the venue. See the RIKEN website for further details . Q: What skills or prior experience should I have in order to participate? . A: Although some basic background knowledge in elementary statistics (e.g., probability theory) and programming in R are required to master the technical skills, no prior experience with computational modeling is necessary. If you have any additional questions, please Contact Us . ",
     "url": "http://localhost:4000/FAQ/",
     "relUrl": "/FAQ/"
   },"1": {
     "doc": "About",
     "title": "About",
-    "content": "The Computational Summer school on Modeling Social and collective behavior (COSMOS) is designed to provide attendees (COSMOnauts) from diverse fields (e.g., psychology, economics, neuroscience, biology, computer science, etc…) and career stages (master, PhD, postdoc, and junior PI) with the computational skills required to tackle emerging challenges in understanding social learning and collective behaviour. Taking advantage of the close collaboration networks and interdisciplinary expertise available at the RIKEN CBS, COSMOS will invite leading researchers from diverse disciplines as guest instructors who will mentor attendees’ own modelling projects during the School. In addition to providing hands-on instruction and mentorship for in-person attendees, our proposed hybrid format will also allow any number of remote participants to benefit from the openly accessible teaching materials) and recorded talks. The goal of the students will be to develop a foundational understanding about how computational modeling can be a strong thread that unifies and advances the study of a wide range of social and collective phenomena. ",
+    "content": "The Computational Summer school on Modeling Social and collective behavior (COSMOS) is designed to provide attendees (COSMOnauts) from diverse fields (e.g., psychology, economics, neuroscience, biology, computer science, etc…) and career stages (master, PhD, postdoc, and junior PI) with the computational skills required to tackle emerging challenges in understanding social learning and collective behaviour. Taking advantage of the close collaboration networks and interdisciplinary expertise available at the RIKEN CBS, COSMOS will invite leading researchers from diverse disciplines as guest instructors who will mentor attendees’ own modelling projects during the School. In addition to providing hands-on instruction and mentorship for in-person attendees, the openly accessible teaching materials) and recorded talks are designed to reach an even larger audience. The goal of the summer school is to help students develop a foundational understanding about how computational modeling can be a strong thread that unifies and advances the study of a wide range of social and collective phenomena. ",
     "url": "http://localhost:4000/about/",
     "relUrl": "/about/"
   },"2": {
     "doc": "About",
     "title": "Objective",
-    "content": "Today, we live in a massively interconnected and digitalized society that allows us to rapidly exchange information among huge numbers of genetically unrelated individuals. This level of connectivity is made possible by our capacity for integrating socially acquired information with our individual experiences in order to inform our reasoning and decision-making processes. Human social learning and our capacity for cumulatively innovating upon past solutions thus plays a central role in our ability to thrive in a wide range of environmental conditions. Yet, in addition to the benefits, there are also emerging dangers and pitfalls of social learning mechanisms gone awry, such as the spread of misinformation and formation of echo-chambers, which are phenomena we are only beginning to understand. While human social learning is certainly distinct, there has also been a long-standing tradition of researchers studying collective behavior in non-human animals, with their own sophisticated vocabulary of theories and powerful predictive models. Yet, superficial gaps in terminologies and concepts used across human and non-human domains have made cross-disciplinary collaborations difficult. To better understand ourselves as human social learners, what is required is a unified language that allows us to engage in the quantitative and comparative study of social learning and collective intelligence observed across species. To address this gap, we propose a summer school dedicated to developing the skills needed to communicate with researchers of social and collective behavior from diverse fields, using computational models as a common language. Computational modeling is becoming both more important and widely used in behavioural sciences. However, the mathematical framework and computational skills necessary to tackle the interdisciplinary challenges of modeling collective behaviour are not always readily accessible to early career researchers. For our third iteration in 2025, we have invited an exciting new line-up of speakers across a diverse spectrum of approaches for modeling social and collective behavior in humans and animals. In relocating to Toyko for 2025, we have prioritized inviting leading reseachers in Asia and Australia. A keynote talk will be given by Tatsuya Kameda (Director of the Center for Interdisciplinary Informatics, Meiji Gakuin University), followed by six thematic lectures by Lusha Zhu (Peking University), Lucy Aplin (Uni Zürich/Australian National University), Damien Farine (Australian National University/Uni Zürich/MPI Animal Behavior), Shinsuke Suzuki(Hitotsubashi Uni), Mayuko Nakamaru(Tokyo Institute of of Technology), Bill D. Thompson(UC Berkeley), and Lio Wong(Stanford). ",
+    "content": "Today, we live in a massively interconnected and digitalized society that allows us to rapidly exchange information among huge numbers of genetically unrelated individuals. This level of connectivity is made possible by our capacity for integrating socially acquired information with our individual experiences in order to inform our reasoning and decision-making processes. Human social learning and our capacity for cumulatively innovating upon past solutions thus plays a central role in our ability to thrive in a wide range of environmental conditions. Yet, in addition to the benefits, there are also emerging dangers and pitfalls of social learning mechanisms gone awry, such as the spread of misinformation and formation of echo-chambers, which are phenomena we are only beginning to understand. While human social learning is certainly distinct, there has also been a long-standing tradition of researchers studying collective behavior in non-human animals, with their own sophisticated vocabulary of theories and powerful predictive models. Yet, superficial gaps in terminologies and concepts used across human and non-human domains have made cross-disciplinary collaborations difficult. To better understand ourselves as human social learners, what is required is a unified language that allows us to engage in the quantitative and comparative study of social learning and collective intelligence observed across species. To address this gap, we propose a summer school dedicated to developing the skills needed to communicate with researchers of social and collective behavior from diverse fields, using computational models as a common language. Computational modeling is becoming both more important and widely used in behavioural sciences. However, the mathematical framework and computational skills necessary to tackle the interdisciplinary challenges of modeling collective behaviour are not always readily accessible to early career researchers. For our third iteration in 2025, we have invited an exciting new line-up of speakers across a diverse spectrum of approaches for modeling social and collective behavior in humans and animals. In relocating to Tokyo for 2025, we have prioritized inviting leading researchers in Asia and Australia. A keynote talk will be given by Tatsuya Kameda (Director of the Center for Interdisciplinary Informatics, Meiji Gakuin University), followed by six thematic lectures by Lusha Zhu (Peking University), Lucy Aplin (Uni Zürich/Australian National University), Damien Farine (Australian National University/Uni Zürich/MPI Animal Behavior), Shinsuke Suzuki (Hitotsubashi Uni), Mayuko Nakamaru (Institute of Science Tokyo), Bill D. Thompson (UC Berkeley), and Lio Wong (Stanford). ",
     "url": "http://localhost:4000/about/#objective",
     "relUrl": "/about/#objective"
   },"3": {
@@ -42,257 +42,275 @@
     "relUrl": "/announcements/"
   },"7": {
     "doc": "Announcements",
-    "title": "COSMOS 2025 lineup confirmed",
-    "content": "Mar 5 &middot; 0 min read ",
+    "title": "COSMOS 2025 call for applications",
+    "content": "Mar 11 &middot; 1 min read ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
   },"8": {
     "doc": "Announcements",
-    "title": "COSMOS 2025",
-    "content": "Dear future COSMOnauts, we are excited to announce that COSMOS 2025 has been confirmed and will be taking place in Tokyo from September 29th - October 3rd. Please check out the exciting new lineup of instructors. We will be posting our call for applications shortly. Stay tuned! . ",
-    "url": "http://localhost:4000/announcements/#cosmos-2025",
-    "relUrl": "/announcements/#cosmos-2025"
+    "title": "COSMOS 2025 call for applications",
+    "content": "We invite you to apply to the 3rd Computational Summer school on Modeling Social and collective behavior (COSMOS) taking place from September 29th - October 3rd in Tokyo, Japan. COSMOS is designed to provide attendees (COSMOnauts) from diverse fields (e.g., psychology, economics, neuroscience, biology, computer science, etc…) and career stages (master, PhD, postdoc, and junior PI) with the computational skills required to tackle emerging challenges in understanding social learning and collective behaviour. For more details, check out the overview of the summer school, our great lineup of instructors, and the FAQ. Apply by April 25th . Visit the application portal for more details. ",
+    "url": "http://localhost:4000/announcements/#cosmos-2025-call-for-applications",
+    "relUrl": "/announcements/#cosmos-2025-call-for-applications"
   },"9": {
     "doc": "Announcements",
-    "title": "Hiatus until 2025",
-    "content": "Dec 1 &middot; 0 min read ",
+    "title": "COSMOS 2025 lineup confirmed",
+    "content": "Mar 5 &middot; 0 min read ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
   },"10": {
     "doc": "Announcements",
     "title": "COSMOS 2025",
-    "content": "Dear future COSMOnauts, we are taking a brief hiatus in 2024 while Wataru relocates to a new position at Riken in Tokyo. In the meantime, we will be writing a tutorial paper and looking for future funding sources to return in 2025. Stay tuned! . ",
+    "content": "Dear future COSMOnauts, we are excited to announce that COSMOS 2025 has been confirmed and will be taking place in Tokyo from September 29th - October 3rd. Please check out the exciting new lineup of instructors. We will be posting our call for applications shortly. Stay tuned! . ",
     "url": "http://localhost:4000/announcements/#cosmos-2025",
     "relUrl": "/announcements/#cosmos-2025"
   },"11": {
+    "doc": "Announcements",
+    "title": "Hiatus until 2025",
+    "content": "Dec 1 &middot; 0 min read ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"12": {
+    "doc": "Announcements",
+    "title": "COSMOS 2025",
+    "content": "Dear future COSMOnauts, we are taking a brief hiatus in 2024 while Wataru relocates to a new position at Riken in Tokyo. In the meantime, we will be writing a tutorial paper and looking for future funding sources to return in 2025. Stay tuned! . ",
+    "url": "http://localhost:4000/announcements/#cosmos-2025",
+    "relUrl": "/announcements/#cosmos-2025"
+  },"13": {
     "doc": "Announcements",
     "title": "Welcome to COSMOS 2023",
     "content": "Jul 1 &middot; 0 min read ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
-  },"12": {
+  },"14": {
     "doc": "Announcements",
     "title": "COSMOS 2023 starting July 4th!",
     "content": "We look forward to welcoming you to the Computational Summer school on Modeling Social and collective behavior (COSMOS) taking place from July 4th - July 7th 2023 in Konstanz, DE. Please take a look at the schedule to familiarize yourself with what will be taking place over this week. We have already updated the teaching materials, where the publicly accessible code notebooks you find there will be companions to the tutorials we are running. Have a great trip and see you in Konstanz! . ",
     "url": "http://localhost:4000/announcements/#cosmos-2023-starting-july-4th",
     "relUrl": "/announcements/#cosmos-2023-starting-july-4th"
-  },"13": {
+  },"15": {
     "doc": "Announcements",
     "title": "Call for applications",
     "content": "Mar 6 &middot; 2 min read ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
-  },"14": {
+  },"16": {
     "doc": "Announcements",
     "title": "Apply by April 14th",
     "content": "We invite you to apply to the Computational Summer school on Modeling Social and collective behavior (COSMOS) taking place from July 4th - July 7th 2023 in Konstanz, DE. COSMOS is designed to provide attendees (COSMOnauts) from diverse fields (e.g., psychology, economics, neuroscience, biology, computer science, etc…) and career stages (masters, PhD, postdoc, and junior PI) with the computational skills required to tackle emerging challenges in understanding social learning and collective behaviour. Taking advantage of the close collaboration networks and interdisciplinary expertise available at the Centre for the Advanced Study of Collective Behaviour (CASCB) in Konstanz, COSMOS will invite leading researchers from diverse disciplines as guest instructors who will mentor attendees’ own modelling projects during the School. In addition to providing hands-on instruction and mentorship for in-person attendees, we also publish openly accessible teaching materials) and recorded talks. The goal of the students will be to develop a foundational understanding about how computational modeling can be a strong thread that unifies and advances the study of a wide range of social and collective phenomena. Attendees will benefit from tutorials teaching the fundamentals of computational modeling in social and cultural settings, attend talks by leading researchers from around the world, and gain career advice during mentorship sessions. New for 2023, we will also have group projects, where participants can directly apply their new knowledge on a number of provided dataset under the supervision of our instructors. COSMOS 2023 is free to attend, and successful applications will be provided free shared accomodations. In addition, we will provide travel stipends for ~15 attendees on the basis of merit and need. ",
     "url": "http://localhost:4000/announcements/#apply-by-april-14th",
     "relUrl": "/announcements/#apply-by-april-14th"
-  },"15": {
+  },"17": {
     "doc": "Announcements",
     "title": "To apply, you will need to submit the following materials as a single pdf",
     "content": ". | One page cover letter describing your motivation to attend the summer school and how you think it will inform your research | Curriculum Vitae | One letter of recommendation | . You can submit your application by April 14th: application portal. ",
     "url": "http://localhost:4000/announcements/#to-apply-you-will-need-to-submit-the-following-materials-as-a-single-pdf",
     "relUrl": "/announcements/#to-apply-you-will-need-to-submit-the-following-materials-as-a-single-pdf"
-  },"16": {
+  },"18": {
     "doc": "Announcements",
     "title": "COSMOS 2023 is now official!",
     "content": "Feb 6 &middot; 0 min read ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
-  },"17": {
+  },"19": {
     "doc": "Announcements",
     "title": "Shortlisted for funding",
     "content": "We are excited to announce we have secured funding to host COSMOS again in 2023. This next iteration features a whole new set of faculty, improved hands-on . ",
     "url": "http://localhost:4000/announcements/#shortlisted-for-funding",
     "relUrl": "/announcements/#shortlisted-for-funding"
-  },"18": {
+  },"20": {
     "doc": "Announcements",
     "title": "COSMOS 2023?",
     "content": "Oct 26 &middot; 0 min read ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
-  },"19": {
+  },"21": {
     "doc": "Announcements",
     "title": "Shortlisted for funding",
     "content": "We have been shortlisted for another round of funding to host COSMOS 2023. Stay tuned for more information! . ",
     "url": "http://localhost:4000/announcements/#shortlisted-for-funding",
     "relUrl": "/announcements/#shortlisted-for-funding"
-  },"20": {
+  },"22": {
     "doc": "Announcements",
     "title": "Call for applications",
     "content": "Feb 12 &middot; 1 min read ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
-  },"21": {
+  },"23": {
     "doc": "Announcements",
     "title": "Apply by April 14th",
     "content": "We invite you to apply to the Computational Summer school on Modeling Social and collective behavior (COSMOS) taking place from July 4th - July 7th 2022 in Konstanz, DE. COSMOS is designed to provide attendees (COSMOnauts) from diverse fields (e.g., psychology, economics, neuroscience, biology, computer science, etc…) and career stages (master, PhD, postdoc, and junior PI) with the computational skills required to tackle emerging challenges in understanding social learning and collective behaviour. Taking advantage of the close collaboration networks and interdisciplinary expertise available at the Centre for the Advanced Study of Collective Behaviour (CASCB) in Konstanz, COSMOS will invite leading researchers from diverse disciplines as guest instructors who will mentor attendees’ own modelling projects during the School. In addition to providing hands-on instruction and mentorship for in-person attendees, our proposed hybrid format will also allow any number of remote participants to benefit from the openly accessible teaching materials) and recorded talks. The goal of the students will be to develop a foundational understanding about how computational modeling can be a strong thread that unifies and advances the study of a wide range of social and collective phenomena. To apply, you will need to submit the following materials . | One page cover letter describing your motivation to attend the summer school and how you think it will will inform your research | Curriculum Vitae | One letter of recommendation | . You can submit your application by April 14th: application portal. ",
     "url": "http://localhost:4000/announcements/#apply-by-april-14th",
     "relUrl": "/announcements/#apply-by-april-14th"
-  },"22": {
+  },"24": {
     "doc": "Application Portal",
     "title": "Prerequisites",
-    "content": "COSMOS is targeted towards attendees from diverse fields (e.g., psychology, economics, neuroscience, biology, computer science, etc) and career stages (master, PhD, postdoc, and junior PI). Participants should have a basic background knowledge in elementary statistics (e.g., probability theory) and programming in R in order to master the technical skills, but no prior experience with computational modeling is necessary. ",
+    "content": "COSMOS is targeted towards attendees from diverse fields (e.g., psychology, economics, neuroscience, biology, computer science, etc) and career stages (masters, PhD, postdoc, and junior PI). Participants should have a basic background knowledge in elementary statistics (e.g., probability theory) and programming in R in order to master the technical skills, but no prior experience with computational modeling is necessary. ",
     "url": "http://localhost:4000/application/#prerequisites",
     "relUrl": "/application/#prerequisites"
-  },"23": {
+  },"25": {
     "doc": "Application Portal",
     "title": "What we offer",
     "content": "Attendees will benefit from tutorials teaching the fundamentals of computational modeling in social and cultural settings, attend talks by leading researchers from around the world, and gain career advice during mentorship sessions. Returning in 2025 we will also have group projects, where participants can directly apply their new knowledge on a number of provided dataset under the supervision of our instructors. ",
     "url": "http://localhost:4000/application/#what-we-offer",
     "relUrl": "/application/#what-we-offer"
-  },"24": {
+  },"26": {
     "doc": "Application Portal",
     "title": "Free to apply, free accomodations, and travel stipends",
-    "content": "COSMOS 2025 is free to attend, and successful applications will be provided with free shared accomodations. In addition, we will provide travel stipends for a small number of attendees on the basis of merit and need. ",
+    "content": "COSMOS 2025 is free to attend, and 20 successful applications will be provided with free accomodations. In addition, we will provide travel stipends for a small number of attendees on the basis of merit and need. ",
     "url": "http://localhost:4000/application/#free-to-apply-free-accomodations-and-travel-stipends",
     "relUrl": "/application/#free-to-apply-free-accomodations-and-travel-stipends"
-  },"25": {
+  },"27": {
     "doc": "Application Portal",
-    "title": "To apply, you will need to submit the following materials as a single pdf",
-    "content": ". | One page cover letter describing your motivation to attend the summer school and how you think it will inform your research | Curriculum Vitae | One letter of recommendation | . You can submit your application by April 25th: application portal. ",
-    "url": "http://localhost:4000/application/#to-apply-you-will-need-to-submit-the-following-materials-as-a-single-pdf",
-    "relUrl": "/application/#to-apply-you-will-need-to-submit-the-following-materials-as-a-single-pdf"
-  },"26": {
+    "title": "To apply, you will need to submit the following materials by April 25th:",
+    "content": ". | One page cover letter describing your motivation to attend the summer school and how you think it will inform your research | Curriculum Vitae (CV) | One letter of recommendation | . You can submit your application (cover letter + CV combined in a single PDF) on the application portal until April 25th (last timezone on Earth). Please instruct your letter writer to submit a letter of recommendation as a pdf at this link, also before April 25th. Please ensure your letter writer enters your name the same as in your own application. ",
+    "url": "http://localhost:4000/application/#to-apply-you-will-need-to-submit-the-following-materials-by-april-25th",
+    "relUrl": "/application/#to-apply-you-will-need-to-submit-the-following-materials-by-april-25th"
+  },"28": {
     "doc": "Application Portal",
     "title": "Application Portal",
     "content": " ",
     "url": "http://localhost:4000/application/",
     "relUrl": "/application/"
-  },"27": {
+  },"29": {
     "doc": "COSMOS",
     "title": "COSMOS Summer School - Tokyo 2025",
     "content": "The Computational Summer school on Modeling Social and collective behavior (COSMOS) . ",
     "url": "http://localhost:4000/#cosmos-summer-school---tokyo-2025",
     "relUrl": "/#cosmos-summer-school---tokyo-2025"
-  },"28": {
+  },"30": {
     "doc": "COSMOS",
-    "title": "COSMOS 2025 lineup confirmed",
-    "content": "Mar 5 &middot; 0 min read ",
+    "title": "COSMOS 2025 call for applications",
+    "content": "Mar 11 &middot; 1 min read ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"29": {
+  },"31": {
     "doc": "COSMOS",
-    "title": "COSMOS 2025",
-    "content": "Dear future COSMOnauts, we are excited to announce that COSMOS 2025 has been confirmed and will be taking place in Tokyo from September 29th - October 3rd. Please check out the exciting new lineup of instructors. We will be posting our call for applications shortly. Stay tuned! . Announcements . ",
-    "url": "http://localhost:4000/#cosmos-2025",
-    "relUrl": "/#cosmos-2025"
-  },"30": {
+    "title": "COSMOS 2025 call for applications",
+    "content": "We invite you to apply to the 3rd Computational Summer school on Modeling Social and collective behavior (COSMOS) taking place from September 29th - October 3rd in Tokyo, Japan. COSMOS is designed to provide attendees (COSMOnauts) from diverse fields (e.g., psychology, economics, neuroscience, biology, computer science, etc…) and career stages (master, PhD, postdoc, and junior PI) with the computational skills required to tackle emerging challenges in understanding social learning and collective behaviour. For more details, check out the overview of the summer school, our great lineup of instructors, and the FAQ. Apply by April 25th . Visit the application portal for more details. Announcements . ",
+    "url": "http://localhost:4000/#cosmos-2025-call-for-applications",
+    "relUrl": "/#cosmos-2025-call-for-applications"
+  },"32": {
     "doc": "COSMOS",
     "title": "COSMOS",
     "content": " ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"31": {
-    "doc": "Instructors",
-    "title": "Organizers",
-    "content": "Charley Wu . charley.wu[at]uni-tuebingen[dot]de . Dr Charley Wu is the PI of the Human and Machine Cognition Lab at the University of Tübingen, and incoming Professor of Computational Cognitive Science at TU Darmstadt. Using a combination of statistical and machine learning models, his team seeks to understand the cognitive shortcuts that allow humans to learn efficiently and behave intelligently, both individually and in groups. Drawing on an extensive background in computational modeling of behavior, Charley will provide students with a gentle introduction to the fundamentals of computational modeling in social settings. Wataru Toyokawa . wataru.toyokawa[at]riken[dot]jp . Dr Wataru Toyokawa is a Unit Leader at the Computational Group Dynamics (COGNAC) Unit at RIKEN Centre of Brain Science, Tokyo, and the project PI at the Centre for the Advanced Study of Collective Behaviour, University of Konstanz. Using computational modelling and Bayesian statistical methods, coupled with real-time online behavioural experimentation, he studies social behaviour, group dynamics, cultural evolution, as well as their eco-evolutionary implications in humans and non-human animal societies. ",
-    "url": "http://localhost:4000/instructors/#organizers",
-    "relUrl": "/instructors/#organizers"
-  },"32": {
-    "doc": "Instructors",
-    "title": "Keynote",
-    "content": "Tatsuya Kameda . tkameda[at]mi[dot]meijigakuin[dot]ac[dot]jp . ",
-    "url": "http://localhost:4000/instructors/#keynote",
-    "relUrl": "/instructors/#keynote"
   },"33": {
     "doc": "Instructors",
+    "title": "Organizers",
+    "content": "Wataru Toyokawa . wataru.toyokawa[at]riken[dot]jp . Dr Wataru Toyokawa is a Unit Leader at the Computational Group Dynamics (COGNAC) Unit at RIKEN Centre of Brain Science, Tokyo, and the project PI at the Centre for the Advanced Study of Collective Behaviour, University of Konstanz. Using computational modelling and Bayesian statistical methods, coupled with real-time online behavioural experimentation, he studies social behaviour, group dynamics, cultural evolution, as well as their eco-evolutionary implications in humans and non-human animal societies. Charley Wu . charley.wu[at]uni-tuebingen[dot]de . Dr Charley Wu is the PI of the Human and Machine Cognition Lab at the University of Tübingen, and incoming Professor of Computational Cognitive Science at TU Darmstadt. Using a combination of statistical and machine learning models, his team seeks to understand the cognitive shortcuts that allow humans to learn efficiently and behave intelligently, both individually and in groups. Drawing on an extensive background in computational modeling of behavior, Charley will provide students with a gentle introduction to the fundamentals of computational modeling in social settings. ",
+    "url": "http://localhost:4000/instructors/#organizers",
+    "relUrl": "/instructors/#organizers"
+  },"34": {
+    "doc": "Instructors",
+    "title": "Keynote",
+    "content": "Tatsuya Kameda . tkameda[at]mi[dot]meijigakuin[dot]ac[dot]jp . Dr. Tatsuya Kameda is a psychologist and experimental social scientist specializing in human group behavior. His research integrates behavioral and neurocognitive experiments with computational modeling to explore social and group decision-making processes. Currently, his work focuses on the emergence of social norms in groups, their neurocognitive and ecological foundations, and the wisdom of crowds in collective decision-making. He is the Director of the Center for Interdisciplinary Informatics and a full professor in the Faculty of Mathematical Informatics at Meiji Gakuin University. ",
+    "url": "http://localhost:4000/instructors/#keynote",
+    "relUrl": "/instructors/#keynote"
+  },"35": {
+    "doc": "Instructors",
     "title": "Instructors",
-    "content": "Bill Thompson . wdt[at]berkeley[dot]edu . Damien Farine . damien[dot]farine[at]anu[dot]edu[dot]au . Damien is a behavioural ecologist and computational biologist with a deep interest in the social behaviour of animals. His research combines running long-term monitoring projects on animal populations together with using high-resolution tracking of groups of individuals to gain a better understanding of how individuals contribute to their society and the consequences of doing so. He is an Associate Professor at the Australian National University. Lio Wong . wong.lionel.mail[at]gmail[dot]com . Lucy Aplin . laplin[at]ab[dot]mpg[dot]de . Dr Lucy Aplin is an associate professor at the Research School of Biology at the Australian National University, and a SERI professorial fellow at the Department of Evolutionary Biology and Environmental Sciences at the University of Zurich. Her research aims to understand how innovations rise and spread through animal societies to form new cultural traits. Her research group - the cognitive ecology lab - studies these processes using a combination of captive and wild experiments with large-scale data collection, including with citizen science and automated tracking. This work has demonstrated how new behaviours can spread through social networks in birds to establish as multi-generational cultural traditions that are shaped by social dynamics such as turnover, and is revealing how cultural traits in animals can be source of behavioural plasticity in changing and modified environments. Lusha Zhu . lushazhu[at]pku[dot]edu[dot]cn . Lusha Zhu is a Professor at School of Psychological and Cognitive Sciences, IDG/McGovern Institute for Brain Research, Peking University, China. Her research focuses primarily on the neural and cognitive processes of social decision-making, particularly, how the human brain anticipates actions and intentions of others with value-based goals to produce choices within interpersonal interactions. Incorporating methods from decision neuroscience, game theory, cognitive psychology, and, sometimes, social network analysis and computational linguistics, her work seeks to develop mechanistic understanding about incentives, inferences, and strategies giving rise to complex social behaviors. Mayuko Nakamaru . nakamaru.m.aa[at]m[dot]titech[dot]ac[dot]jp . Shinsuke Suzuki . shinsuke[dot]szk[at]gmail[dot]com . Shinsuke Suzuki is a professor in the Faculty of Social Data Science at Hitotsubashi University. His research focuses on uncovering the neural and computational principles of human decision-making. He employs model-based fMRI, integrating functional magnetic resonance imaging with computational modeling. By identifying neural activity associated with specific computations, he aims to elucidate how the brain processes choices and to explore how these insights apply to mental disorders like gambling disorder, obsessive-compulsive disorder, depression, anxiety, and autism. ",
+    "content": "Bill Thompson . wdt[at]berkeley[dot]edu . Bill Thompson is an Assistant Professor of Psychology and Cognitive Science at the University of California, Berkeley and director of the Computational Cognitive Science lab. Damien Farine . damien[dot]farine[at]anu[dot]edu[dot]au . Damien is a behavioural ecologist and computational biologist with a deep interest in the social behaviour of animals. His research combines running long-term monitoring projects on animal populations together with using high-resolution tracking of groups of individuals to gain a better understanding of how individuals contribute to their society and the consequences of doing so. He is an Associate Professor at the Australian National University. Lio Wong . wong.lionel.mail[at]gmail[dot]com . Lio is a computational cognitive scientist and writer with a deep interest in language – how we relate words and sentences to our broader cognitive abilities and beliefs, and how we learn new concepts and theories from language over a lifetime. Their research seeks to answer these questions by combining theory-driven cognitive experiments with formal computational tools, including structured probabilistic models of cognition, program synthesis, and data-driven machine learning methods. Lio is currently a Stanford Human-Centered Artificial Intelligence Fellow working with the Cognitive Tools Lab, and completed their PhD in Brain and Cognitive Sciences at MIT. Lucy Aplin . laplin[at]ab[dot]mpg[dot]de . Dr Lucy Aplin is an associate professor at the Research School of Biology at the Australian National University, and a SERI professorial fellow at the Department of Evolutionary Biology and Environmental Sciences at the University of Zurich. Her research aims to understand how innovations rise and spread through animal societies to form new cultural traits. Her research group - the cognitive ecology lab - studies these processes using a combination of captive and wild experiments with large-scale data collection, including with citizen science and automated tracking. This work has demonstrated how new behaviours can spread through social networks in birds to establish as multi-generational cultural traditions that are shaped by social dynamics such as turnover, and is revealing how cultural traits in animals can be source of behavioural plasticity in changing and modified environments. Lusha Zhu . lushazhu[at]pku[dot]edu[dot]cn . Lusha Zhu is a Professor at School of Psychological and Cognitive Sciences, IDG/McGovern Institute for Brain Research, Peking University, China. Her research focuses primarily on the neural and cognitive processes of social decision-making, particularly, how the human brain anticipates actions and intentions of others with value-based goals to produce choices within interpersonal interactions. Incorporating methods from decision neuroscience, game theory, cognitive psychology, and, sometimes, social network analysis and computational linguistics, her work seeks to develop mechanistic understanding about incentives, inferences, and strategies giving rise to complex social behaviors. Mayuko Nakamaru . nakamaru.m.aa[at]m[dot]titech[dot]ac[dot]jp . Dr Nakamaru is a professor at School of Environment and Society, Institute of Science Tokyo, Japan. Based on mathematical biology and evolutionary ecology, she has researched society from the viewpoint of the evolution of cooperation by means of evolutionary game theory and agent-based simulations. Now she is applying “the evolution of cooperation” studies to existing mutual aid systems, the abandonment problem of rice fields, supply chain network, and so on. She sometimes goes outsides to observe what the reality is, and does experimental and questionnaire works with collaborators to know how people make decisions. Then, she enjoys making new and general mathematical models following the observation and the result of the empirical works. Shinsuke Suzuki . shinsuke[dot]szk[at]gmail[dot]com . Shinsuke Suzuki is a professor in the Faculty of Social Data Science at Hitotsubashi University. His research focuses on uncovering the neural and computational principles of human decision-making. He employs model-based fMRI, integrating functional magnetic resonance imaging with computational modeling. By identifying neural activity associated with specific computations, he aims to elucidate how the brain processes choices and to explore how these insights apply to mental disorders like gambling disorder, obsessive-compulsive disorder, depression, anxiety, and autism. ",
     "url": "http://localhost:4000/instructors/",
     "relUrl": "/instructors/"
-  },"34": {
+  },"36": {
+    "doc": "Instructors",
+    "title": "Teaching Assistants",
+    "content": "Henri Vandendriessche . henri.vandendriessche[at]riken[dot]jp . Henri Vandendriessche is a post-doctoral researcher at the RIKEN’s Center for Brain Science, in the Computational Group Dynamics (COGNAC) Collaboration Unit. His research lies at the crossroads of affective value-based decision-making, computational psychiatry, and now collective behavior. Using reinforcement learning models applied to humans, he studies decision-making and its biases. He tries to shed light on inter-individual differences and group dynamics in social contexts and more specifically in consensus decision-making. Kartik Chandra . kach[@]mit[dot]edu . Kartik is a PhD student at MIT CSAIL, advised by Jonathan Ragan-Kelley and Josh Tenenbaum. His work applies big ideas from the theory of programming languages and computer graphics to study how our minds understand others’ minds. ",
+    "url": "http://localhost:4000/instructors/#teaching-assistants",
+    "relUrl": "/instructors/#teaching-assistants"
+  },"37": {
     "doc": "Instructors",
     "title": "Previous years",
     "content": "COSMOS 2023 . | Keynote: Meg Crofoot (Max Planck Institute of Animal Behavior) | Alberto Acerbi (University of Trento) | Anne Kandler (Max Planck Institute for Evolutionary Anthropology) | Judy Fan (Stanford) | Julian Jara-Ettinger (Yale) | Lei Zhang (University of Birmingham) | Robert Hawkins (Stanford) | Vivek Hari Sridhar (University of Washington) | . COSMOS 2022 . | Keynote: Iain Couzin (Max Planck Institute of Animal Behavior) | Ariana Strandburg-Peshkin (Max Planck Institute of Animal Behavior) | Stefano Palminteri (ENS Paris) | Ralf Kurvers (Max Planck Institute for Human Development) | Natalia Vélez (Princeton) | Mark Ho (NYU) | Elena Miu (Aarhus University) | . ",
     "url": "http://localhost:4000/instructors/#previous-years",
     "relUrl": "/instructors/#previous-years"
-  },"35": {
+  },"38": {
     "doc": "Course Materials",
     "title": "Course Materials",
     "content": " ",
     "url": "http://localhost:4000/materials/",
     "relUrl": "/materials/"
-  },"36": {
+  },"39": {
     "doc": "Course Materials",
     "title": "Tutorial 1: Designing a social learning environment - Charley Wu &amp; Wataru Toyokawa",
     "content": "Coming soon . ",
     "url": "http://localhost:4000/materials/#tutorial-1-designing-a-social-learning-environment-charley-wu-wataru-toyokawa",
     "relUrl": "/materials/#tutorial-1-designing-a-social-learning-environment-charley-wu-wataru-toyokawa"
-  },"37": {
+  },"40": {
     "doc": "Course Materials",
     "title": "Tutorial 2:  Models of social and individual learning - Charley Wu &amp; Wataru Toyokawa",
     "content": "Coming soon . ",
     "url": "http://localhost:4000/materials/#tutorial-2-models-of-social-and-individual-learning-charley-wu-wataru-toyokawa",
     "relUrl": "/materials/#tutorial-2-models-of-social-and-individual-learning-charley-wu-wataru-toyokawa"
-  },"38": {
+  },"41": {
     "doc": "Course Materials",
     "title": "Tutorial 3: Model comparison and robustness - Charley Wu &amp; Wataru Toyokawa",
     "content": "Coming soon . ",
     "url": "http://localhost:4000/materials/#tutorial-3-model-comparison-and-robustness-charley-wu-wataru-toyokawa",
     "relUrl": "/materials/#tutorial-3-model-comparison-and-robustness-charley-wu-wataru-toyokawa"
-  },"39": {
+  },"42": {
     "doc": "Course Materials",
     "title": "COSMOS 2023 - Talk recordings",
     "content": "Tutorial 1: Designing a social learning environment – Charley Wu &amp; Wataru Toyokawa . Code Notebook . slides . Tutorial 2: Models of social and individual learning – Charley Wu &amp; Wataru Toyokawa . Code Notebook . slides . Tutorial 3: Model comparison and robustness – Charley Wu &amp; Wataru Toyokawa . Code Notebook . slides . Tutorial 4: Cracking hierarchical Bayesian computational modeling with Stan – Lei Zhang . slides and code . Meg Crofoot - Building a science of sociome . Alberto Acerbi - Agent-based models of cultural evolution . Robert Hawkins - Coordination and collective behavior . Judy Fan - Learning to coordinate on shared task abstractions . Anne Kandler - Inferring process from pattern in cultural evolution . Vivek Hari Sridhar - Collective computation across scales of biological organisation . Julian Jara-Ettinger - The computational structure of human Theory of Mind . ",
     "url": "http://localhost:4000/materials/#cosmos-2023---talk-recordings",
     "relUrl": "/materials/#cosmos-2023---talk-recordings"
-  },"40": {
+  },"43": {
     "doc": "Course Materials",
     "title": "COSMOS 2022 - Talk recordings",
     "content": "Tutorial 1: Designing a social learning environment – Wataru Toyokawa &amp; Charley Wu . Tutorial 2: Models of social and individual learning – Charley Wu &amp; Wataru Toyokawa . Tutorial 3: Model comparison and robustness – Charley Wu &amp; Wataru Toyokawa . Iain Couzin - Employing Immersive Virtual Reality and Machine Learning *Substitute recording due to technical issues . Stefano Palminteri - The blessing and curse of value shaping imitation . Elena Miu - Cumulative culture: the evolution of technology . Ariana Strandburg-Peshkin - Communication &amp; collective behaviour in animal societies . Natalia Vélez - Learning from other minds: Probabilistic models of human social learning . Mark Ho - Models of multi-agent action and inference . Ralf Kurvers - The cognitive mechanisms underlying information cascades . ",
     "url": "http://localhost:4000/materials/#cosmos-2022---talk-recordings",
     "relUrl": "/materials/#cosmos-2022---talk-recordings"
-  },"41": {
+  },"44": {
     "doc": "Group projects",
     "title": "Group projects",
     "content": "Coming soon . ",
     "url": "http://localhost:4000/projects/",
     "relUrl": "/projects/"
-  },"42": {
+  },"45": {
     "doc": "Group projects",
     "title": "COSMOS 2023 Group projects",
     "content": "You can find a more detailed overview about each project here. P1: Wisdom or madness of crowds? (based on Toyokawa, Whalen &amp; Laland (2019)) . Investigate human choice behaviour in a three-armed bandit task to see when social learning is helpful and when it isn’t. | Beginner friendly | Model code written in R | Data and code are here | . P2: Social learning in correlated environments (based on Witt, Toyokawa, Lala, Gaissmaier &amp; Wu (2023)) . Investigate how humans integrate social information when it is positively correlated in a multi-armed bandit task. | Advanced | Model code written in Python | Data and code are here | . P3: Learning other people’s values based on the decisions they make (based on Jern, Lucas &amp; Kemp (2017)) . Simulate inverse decision-making to understand an agent’s prefrences. | Beginner friendly | No previous code to be used - choose your own programming language! | Data are here | . P4: Tracking competence and preference inference from spatial navigation (based on Jara-Ettinger, Schulz &amp; Tenenbaum (2020)) . Simulate an artificial agent navigating an environment, and an observer inferring its preferences and competence. Compare how well this matches human ratings. | Advanced | Model code written in Python (or code your own MDP) | Data are here in the Data folder and code (if desired) is here | . P5: Learning to communicate about shared procedural abstractions (based on McCarthy, Hawkins, Wang, Holdaway &amp; Fan (2021)) . Replicate or expand on an analysis of how human participants effectively communicate in a physical assembly task. | Beginner friendly or advanced, depending on whether you choose to replicate or expand | Model code written in Python | Data and code are here | . P6: Modelling algorithm-mediated social learning (inspired by Acerbi (2019) and Brady et al. (2023)) . Extend models of transmission biases including algorithmic-mediation (possibly using data from social media). | Beginner friendly | Model code written in R | Code is here | . P7: Interplay between direct learning and social learning under uncertainty (based on Zhang &amp; Gläscher (2020)) . Work with an existing model of direct and social learning to predict human choices in an experiment or simulate agents. | Advanced | Model code written in Matlab, Stan, and R | Data and code are here) | . P8: From pattern to process (based on Kandler, Fogarty &amp; Karsdorp (2023)) . Figure out what evolutionary process underlies the distribution of a population’s cultural traits in five datasets. | Beginner friendly | Model code written in R, Matlab, or Julia | Data and code are here | . P9: Quantifying leadership in animal groups (based on Sridhar et al. (2023)) . Explore the effect of different pairwise predictors on leadership / social influence within groups of golden shiner fish and/or pigeons. | Beginner friendly | Model code written in Python | Data are here and code is here | . ",
     "url": "http://localhost:4000/projects/#cosmos-2023-group-projects",
     "relUrl": "/projects/#cosmos-2023-group-projects"
-  },"43": {
+  },"46": {
     "doc": "Schedule",
     "title": "COSMOS 2025 Schedule",
-    "content": "Monday September 29th - Friday October 3rd, all times are GMT+9 (Tokyo local time) . | Tuesday: poster session/reception takes place in the Center for Visual Computing of Collectives (Building ZT, University of Konstanz). A layout of the University Campus can be found here | Wednesday and Thursday: all sessions are held in Bodensee Forum, Reichenaustraße 21, 78467 Konstanz. | Friday: all sessions will be in Senatssaal – V 1001, University of Konstanz, Building V, Universitätsstraße 10, 78464 Konstanz. | . | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | 6:00 PM | 6:30 PM | 7:00 PM | 7:30 PM | . | ",
+    "content": "Monday September 29th - Friday October 3rd, all times are GMT+9 (Tokyo local time) . | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | 6:00 PM | 6:30 PM | 7:00 PM | 7:30 PM | . | ",
     "url": "http://localhost:4000/schedule/#cosmos-2025-schedule",
     "relUrl": "/schedule/#cosmos-2025-schedule"
-  },"44": {
+  },"47": {
     "doc": "Schedule",
     "title": "Monday",
     "content": ". | Welcome reception and poster presentation 4:00 PM–7:00 PM | . | ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
-  },"45": {
+  },"48": {
     "doc": "Schedule",
     "title": "Tuesday",
     "content": ". | Keynote: Experimental Social Sciences 9:00 AM–10:00 AM Kameda | Introduction &amp; Opening Remarks 10:00 AM–10:30 AM Toyokawa &amp; Wu | Coffee break 10:30 AM–11:00 AM | Tutorial 1: Designing a social learning environment 11:00 AM–12:00 PM Toyokawa &amp; Wu | Lunch 12:00 PM–1:30 PM | Lecture 1 1:30 PM–2:30 PM TBD | Coffee break 2:30 PM–3:00 PM | Tutorial 2: Models of social and individual learning 3:00 PM–4:30 PM Toyokawa &amp; Wu | Lecture 2 4:30 PM–5:30 PM TBD | Introduction to group projects 5:30 PM–6:00 PM Toyokawa &amp; Wu | Dinner 7:00 PM–9:00 PM | . | ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
-  },"46": {
+  },"49": {
     "doc": "Schedule",
     "title": "Wednesday",
     "content": ". | Lecture 3 9:00 AM–10:00 AM TBD | Coffee break 10:00 AM–10:30 AM | Tutorial 3: Model comparison and robustness 10:30 AM–12:00 PM Toyokawa &amp; Wu | Lunch and group work 12:00 PM–3:00 PM | Coffee break 3:00 PM–3:30 PM | Lecture 4 3:30 PM–4:30 PM TBD | Lecture 5 4:30 PM–5:30 PM TBD | Mentorship session 5:30 PM–8:00 PM | . | ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
-  },"47": {
+  },"50": {
     "doc": "Schedule",
     "title": "Thursday",
     "content": ". | Lecture 6 9:00 AM–10:00 AM TBD | Coffee break 10:00 AM–10:30 AM | Tutorial 4 10:30 AM–12:00 PM TBD | Lunch and group work 12:00 PM–7:00 PM | Dinner 7:00 PM–8:00 PM | . | ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
-  },"48": {
+  },"51": {
     "doc": "Schedule",
     "title": "Friday",
     "content": ". | Group presentations 1 9:00 AM–12:00 PM | Lunch 12:00 PM–1:00 PM | Group presentations 2 1:00 PM–3:00 PM | Final Remarks 3:00 PM–3:30 PM | . | . ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
-  },"49": {
+  },"52": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": " ",
