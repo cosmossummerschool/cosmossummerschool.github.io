@@ -162,5 +162,9 @@ schedule:
         start: 3:00 PM
         end: 3:30 PM
         class: other
+      - name: "Farewell reception"
+        start: 4:00 PM
+        end: 8:00 PM
+        class: other
 
 ---
