@@ -54,10 +54,10 @@ schedule:
         start: 12:00 PM
         end: 1:30 PM
         class: other
-      - name: "Lecture 1"
+      - name: "From Innovation to Adaptation"
         start: 1:30 PM
         end: 2:30 PM
-        instructor: TBD
+        instructor: Aplin
         class: lecture
       - name: Coffee break
         start: 2:30 PM
@@ -68,10 +68,10 @@ schedule:
         end: 4:30 PM
         instructor: Toyokawa & Wu
         class: tutorial
-      - name: "Lecture 2"
+      - name: "Revealing the costs of collective movement"
         start: 4:30 PM 
         end: 5:30 PM 
-        instructor: TBD
+        instructor: Farine
         class: lecture
       - name: Introduction to group projects
         start: 5:30 PM 
@@ -84,10 +84,10 @@ schedule:
         class: other
   - name: Wednesday
     events:
-      - name: "Lecture 3"
+      - name: "Behavioral game theory and beyond"
         start: 9:00 AM
         end: 10:00 AM
-        instructor: TBD
+        instructor: Zhu
         class: lecture
       - name: Coffee break
         start: 10:00 AM
@@ -110,12 +110,12 @@ schedule:
         start: 3:30 PM 
         end: 4:30 PM 
         class: lecture
-        instructor: TBD
-      - name:  Lecture 5
+        instructor: Nakamaru
+      - name:  "Neural computations underlying human social learning"
         start: 4:30 PM 
         end: 5:30 PM 
         class: lecture
-        instructor: TBD
+        instructor: Suzuki
       - name: Mentorship session
         start: 5:30 PM 
         end: 8:00 PM 
@@ -125,7 +125,7 @@ schedule:
       - name: "Lecture 6"
         start: 9:00 AM
         end: 10:00 AM
-        instructor: TBD
+        instructor: Austerweil
         class: lecture
       - name: Coffee break
         start: 10:00 AM
@@ -134,7 +134,7 @@ schedule:
       - name: "Tutorial 4"
         start: 10:30 AM
         end: 12:00 PM
-        instructor: TBD
+        instructor: Wong & Chandra
         class: tutorial
       - name: Lunch and group work
         start: 12:00 PM
