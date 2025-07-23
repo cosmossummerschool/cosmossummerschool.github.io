@@ -50,7 +50,7 @@ schedule:
         end: 12:00 PM
         instructor: Toyokawa & Wu
         class: tutorial
-      - name: Lunch
+      - name: Lunch & Discussion
         start: 12:00 PM
         end: 1:30 PM
         class: other
@@ -150,7 +150,7 @@ schedule:
         start: 9:00 AM
         end: 12:00 PM
         class: group
-      - name: Lunch 
+      - name: Lunch & Discussion 
         start: 12:00 PM
         end: 1:00 PM
         class: other
