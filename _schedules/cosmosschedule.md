@@ -106,7 +106,7 @@ schedule:
         start: 3:00 PM
         end: 3:30 PM
         class: other
-      - name: "Lecture 4"
+      - name: "Learn from the past: Past institutions and systems provide us with clues to the evolution of cooperation"
         start: 3:30 PM 
         end: 4:30 PM 
         class: lecture
