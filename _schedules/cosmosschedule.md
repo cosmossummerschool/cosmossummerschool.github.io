@@ -122,7 +122,7 @@ schedule:
         class: other
   - name: Thursday
     events:
-      - name: "Lecture 6"
+      - name: "Understanding individual and cultural knowledge using MCMC with People."
         start: 9:00 AM
         end: 10:00 AM
         instructor: Austerweil
