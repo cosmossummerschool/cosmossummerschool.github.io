@@ -93,10 +93,10 @@ schedule:
         start: 10:00 AM
         end: 10:30 AM
         class: other
-      - name: "Tutorial 3: Model comparison and robustness"
+      - name: "Tutorial 3: Modeling social cognition using memo"
         start: 10:30 AM
         end: 12:00 PM
-        instructor: Toyokawa & Wu
+        instructor: Wong & Chandra
         class: tutorial
       - name: Lunch and group work
         start: 12:00 PM
@@ -131,10 +131,10 @@ schedule:
         start: 10:00 AM
         end: 10:30 AM
         class: other
-      - name: "Tutorial 4"
+      - name: "Tutorial 4: Model comparison and robustness"
         start: 10:30 AM
         end: 12:00 PM
-        instructor: Wong & Chandra
+        instructor: Toyokawa & Wu
         class: tutorial
       - name: Lunch and group work
         start: 12:00 PM
