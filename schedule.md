@@ -8,16 +8,17 @@ description: COSMOS 2025 schedule.
 # COSMOS 2025 Schedule
 Monday September 29th - Friday October 3rd, all times are GMT+9 (Tokyo local time)
 
-<!-- 
-Monday: poster session/reception takes place in the [Center for Visual Computing of Collectives (Building ZT, University of Konstanz)](https://goo.gl/maps/gGYv7CGg2KDfLRoV7){:target="_blank"}. A layout of the University Campus can be found [here](https://www.uni-konstanz.de/universitaet/ueber-die-universitaet-konstanz/anreise-lageplan-und-oeffnungszeiten/){:target="_blank"}
-- Wednesday and Thursday: all sessions are held in [Bodensee Forum, Reichenaustraße 21, 78467 Konstanz](https://goo.gl/maps/g6SKWBJgQB63P3C97){:target="_blank"}. 
-- Friday: all sessions will be in [Senatssaal – V 1001, University of Konstanz, Building V, Universitätsstraße 10, 78464 Konstanz](https://goo.gl/maps/xBWfyG9xpzuEFvHC9){:target="_blank"}. 
 
+**Monday**: Poster session/reception takes place in the [RIKEN Administrative Headquarters Foyer](https://maps.app.goo.gl/MLGWkPaQA8yhDv4Z6){:target="_blank"} labelled C00 in the [campus map](https://www.riken.jp/medialibrary/riken/en/access/wako-map/campus_en_p.pdf){:target="_blank"} and near the [West Gate](https://maps.app.goo.gl/E4GRXjwCBa5DwZL98){:target="_blank"}
 
-- Tuesday: poster session/reception takes place in the [Center for Visual Computing of Collectives (Building ZT, University of Konstanz)](https://goo.gl/maps/gGYv7CGg2KDfLRoV7){:target="_blank"}. A layout of the University Campus can be found [here](https://www.uni-konstanz.de/universitaet/ueber-die-universitaet-konstanz/anreise-lageplan-und-oeffnungszeiten/){:target="_blank"}
-- Wednesday and Thursday: all sessions are held in [Bodensee Forum, Reichenaustraße 21, 78467 Konstanz](https://goo.gl/maps/g6SKWBJgQB63P3C97){:target="_blank"}. 
-- Friday: all sessions will be in [Senatssaal – V 1001, University of Konstanz, Building V, Universitätsstraße 10, 78464 Konstanz](https://goo.gl/maps/xBWfyG9xpzuEFvHC9){:target="_blank"}. 
--->
+**Tuesday**: Talks will take place in the [RIKEN Administrative Headquarters Lecture Hall](https://maps.app.goo.gl/MLGWkPaQA8yhDv4Z6){:target="_blank"} in the same C00 building as the poster session
+
+**Wednesday**: [Okochi Hall](https://maps.app.goo.gl/jJtf7H4xv6pkbny6A){:target="_blank"} labelled C32 in the [campus map](https://www.riken.jp/medialibrary/riken/en/access/wako-map/campus_en_p.pdf){:target="_blank"} 
+
+**Thursday & Friday**: Back to the [RIKEN Administrative Headquarters Lecture Hall](https://maps.app.goo.gl/MLGWkPaQA8yhDv4Z6){:target="_blank"} in the same C00 building as the poster session
+
+**Lunches and Farewell party**: [Hirosawa Club](https://maps.app.goo.gl/S1sMrZoBbjru4ZgY7){:target="_blank"} (C72 in the [campus map](https://www.riken.jp/medialibrary/riken/en/access/wako-map/campus_en_p.pdf){:target="_blank"})
+
 
 <!--[Add the schedule via this Google calendar link](https://calendar.google.com/calendar/u/4?cid=Y29zbW9zLmtvbnN0YW56QGdtYWlsLmNvbQ){:target="_blank"} Update with new google calendar-->
 
