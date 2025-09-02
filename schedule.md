@@ -20,7 +20,7 @@ Monday September 29th - Friday October 3rd, all times are GMT+9 (Tokyo local tim
 **Lunches and Farewell party**: [Hirosawa Club](https://maps.app.goo.gl/S1sMrZoBbjru4ZgY7){:target="_blank"} (C72 in the [campus map](https://www.riken.jp/medialibrary/riken/en/access/wako-map/campus_en_p.pdf){:target="_blank"})
 
 
-<!--[Add the schedule via this Google calendar link](https://calendar.google.com/calendar/u/4?cid=Y29zbW9zLmtvbnN0YW56QGdtYWlsLmNvbQ){:target="_blank"} Update with new google calendar-->
+[Add the schedule via this Google calendar link](https://calendar.google.com/calendar/u/2?cid=Y29zbW9zc3VtbWVyc2Nob29sQGdtYWlsLmNvbQ){:target="_blank"} 
 
 {% for schedule in site.schedules %}
 {{ schedule }}
