@@ -106,7 +106,7 @@ schedule:
         start: 3:00 PM
         end: 3:30 PM
         class: other
-      - name: "Can cooperators avoid being deceived by gossips from uncooperative liars?"
+      - name: "Evolution of Cooperation with gossips from uncooperative liars"
         start: 3:30 PM 
         end: 4:30 PM 
         class: lecture
@@ -122,7 +122,7 @@ schedule:
         class: other
   - name: Thursday
     events:
-      - name: "Understanding individual and cultural knowledge using MCMC with People."
+      - name: "Understanding knowledge using MCMC with People."
         start: 9:00 AM
         end: 10:00 AM
         instructor: Austerweil
