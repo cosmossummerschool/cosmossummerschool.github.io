@@ -78,7 +78,7 @@ schedule:
         end: 6:00 PM 
         instructor: Toyokawa & Wu
         class: group
-      - name: Dinner 
+      - name: Dinner (free time)
         start: 7:00 PM 
         end: 9:00 PM 
         class: other
@@ -93,7 +93,7 @@ schedule:
         start: 10:00 AM
         end: 10:30 AM
         class: other
-      - name: "Tutorial 3: Modeling social cognition using memo"
+      - name: "Guest Tutorial: Modeling social cognition using memo"
         start: 10:30 AM
         end: 12:00 PM
         instructor: Wong & Chandra
@@ -131,7 +131,7 @@ schedule:
         start: 10:00 AM
         end: 10:30 AM
         class: other
-      - name: "Tutorial 4: Model comparison and robustness"
+      - name: "Tutorial 3: Model comparison and robustness"
         start: 10:30 AM
         end: 12:00 PM
         instructor: Toyokawa & Wu
@@ -140,9 +140,9 @@ schedule:
         start: 12:00 PM
         end: 7:00 PM
         class: group
-      - name: Dinner
+      - name: Dinner with group project (optional)
         start: 7:00 PM
-        end: 8:00 PM
+        end: 9:00 PM
         class: other
   - name: Friday
     events:
