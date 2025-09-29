@@ -93,7 +93,7 @@ Investigate which strategy provide the best behaviors prediction to account for 
 **P9: Inferring and predicting emotions**
 (based on [Houlihan1 et al. (2023)](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2022.0047))
 
-predicting how people attribute emotions based on contextual information on how they play a real Prisoner’s Dilemma game, using information (images, information about their actions) from a live game show.
+Predict how people attribute emotions based on contextual information on how they play a real Prisoner’s Dilemma game, using information (images, information about their actions) from a live game show.
 - Advanced
 - Model code written in Python
 - Data are [here](https://github.com/daeh/computed-appraisals)
