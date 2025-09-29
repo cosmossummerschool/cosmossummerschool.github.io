@@ -15,11 +15,10 @@ description: >-
   
 # Group projects
 
-*Coming soon*
 
-## COSMOS 2023 Group projects
+## COSMOS 2025 Group projects
 
-You can find a more detailed overview about each project [here](https://docs.google.com/presentation/d/1y2qfXVWEgXsvuHgZ7YbZrdSH-nGg-fyhg13a6hatKks/edit?usp=sharing).  
+You can find a more detailed overview about each project [here](https://docs.google.com/presentation/d/14qt7qoZ9lACxZpZDtptinT3vCZNLWgaar5Iu1PCgh1w/edit?usp=drive_web&ouid=103673805048621957131).  
 
 **P1: Wisdom or madness of crowds?**
 (based on [Toyokawa, Whalen & Laland (2019)](https://www.nature.com/articles/s41562-018-0518-x))
@@ -31,7 +30,7 @@ Investigate human choice behaviour in a three-armed bandit task to see when soci
 
 
 **P2: Social learning in correlated environments**
-(based on [Witt, Toyokawa, Lala, Gaissmaier & Wu (2023)](https://psyarxiv.com/c3fuq/))
+(based on [Witt, Toyokawa, Lala, Gaissmaier & Wu (2024)](https://charleywu.github.io/downloads/witt2024humans.pdf))
 
 Investigate how humans integrate social information when it is positively correlated in a multi-armed bandit task.
 - Advanced
@@ -39,64 +38,62 @@ Investigate how humans integrate social information when it is positively correl
 - Data and code are [here](https://github.com/AlexandraWitt/socialGeneralization_COSMOS)
 
 
-**P3: Learning other people's values based on the decisions they make**
-(based on [Jern, Lucas & Kemp (2017)](https://www.sciencedirect.com/science/article/pii/S0010027717301798?via%3Dihub))
+**P3: Do collectives appear to have memory?**
+(partly inspired by homing pigeons, e.g.[Collet et al. 2021](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2021.2110), but also other problems)
 
-Simulate inverse decision-making to understand an agent's prefrences.
+Develop a navigation simulation, compare individual vs collective runs and quantify the difference.
+- Advanced.
+- Early simulation script in R
+- See Damien Farine for the data
+
+
+**P4: Evolution of Social Strategies in a Lattice-Structured Population**
+(based on [Nakamaru, M., Matsuda, H., & Iwasa, Y. (1997)](https://www.sciencedirect.com/science/article/abs/pii/S002251939690243X))
+
+Replicate the original study (Python code available) with varying group size (who each player plays the repeated Prisoner’s Dilemma game with, whose strategy each player imitates), updating rules, etc.
 - Beginner friendly
-- No previous code to be used - choose your own programming language!
-- Data are [here](https://github.com/alanjern/preferencelearning)
+- Python code available
+- See Mayuko Nakamaru for the data
 
 
-**P4: Tracking competence and preference inference from spatial navigation**
-(based on [Jara-Ettinger, Schulz & Tenenbaum (2020)](https://compdevlab.yale.edu/docs/2020/cogpsych_NUC.pdf))
+**P5: Teaching Multiple Agents via State Intervention**
 
-Simulate an artificial agent navigating an environment, and an observer inferring its preferences and competence. Compare how well this matches human ratings.
-- Advanced
-- Model code written in Python (or code your own MDP) 
-- Data are [here](https://osf.io/uzs8r/) in the Data folder and code (if desired) is [here](https://github.com/julianje/Bishop)
-
-
-**P5: Learning to communicate about shared procedural abstractions**
-(based on [McCarthy*, Hawkins*, Wang, Holdaway & Fan (2021)](https://cogtoolslab.github.io/pdf/mccarthy_cogsci_2021b.pdf))
-
-Replicate or expand on an analysis of how human participants effectively communicate in a physical assembly task.
-- Beginner friendly or advanced, depending on whether you choose to replicate or expand
-- Model code written in Python
-- Data and code are [here](https://github.com/cogtoolslab/compositional_abstractions_tutorial)
+Develop your own web experiments where real-time multiple RL agents learn from interaction with the environment and physical intervention.
+- Intermediate
+- Web experiment code provided in Javascript/Typescript; Simulation code provided in Python
+- Data and code are [here](https://github.com/ZhuolunZhong/Physical-Intervention-with-multi-agent-system.git)
 
  
-**P6: Modelling algorithm-mediated social learning**
-(inspired by [Acerbi (2019)](https://www.nature.com/articles/s41599-019-0224-y) and [Brady et al. (2023)](https://osf.io/yw5ah/))
+**P6: Information integration on social network**
+(inspired by [Jiang, Mi, Zhu (2023)](https://www.nature.com/articles/s41593-023-01258-y))
 
-Extend models of transmission biases including algorithmic-mediation (possibly using data from social media).
+Investigate how network structures affect individual learning and decision-making.
+- Intermediate
+- Model code written in Matlab
+- Data and code is [here](https://osf.io/8rbs4/)
+
+
+**P7: Conformist transmission in multilevel societies**
+(based on [Aplin et al. (2015)](https://www.nature.com/articles/nature13998) and [Cantor, Chimento, Smeele et al. (2021)](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2020.3107))
+
+Investigate the impact of network structures on transmission.
 - Beginner friendly
-- Model code written in R
-- Code is [here](https://acerbialberto.com/IBM-cultevo/)
+- Model code written in Python and R
+- Data and code are [here](https://github.com/simeonqs/Social_network_architecture_and_the_tempo_of_cumulative_cultural_evolution))
 
 
-**P7: Interplay between direct learning and social learning under uncertainty**
-(based on [Zhang & Gläscher (2020)](https://www.science.org/doi/10.1126/sciadv.abb4159))
+**P8: Observational learning**
+(based on [Morishita, Yadav, Murawski, and Suzuki (2025)](https://www.biorxiv.org/content/10.1101/2025.05.19.654209v1))
 
-Work with an existing model of direct and social learning to predict human choices in an experiment or simulate agents.
+Investigate which strategy provide the best behaviors prediction to account for learning from others' experience. 
+- Beginner friendly
+- Model code written in Python 
+- Data and code are [here](https://zenodo.org/records/17074624)
+
+**P9: Inferring and predicting emotions**
+(based on [Houlihan1 et al. (2023)](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2022.0047))
+
+predicting how people attribute emotions based on contextual information on how they play a real Prisoner’s Dilemma game, using information (images, information about their actions) from a live game show.
 - Advanced
-- Model code written in Matlab, Stan, and R
-- Data and code are [here](https://github.com/lei-zhang/SIT))
-
-
-**P8: From pattern to process**
-(based on Kandler, Fogarty & Karsdorp (2023))
-
-Figure out what evolutionary process underlies the distribution of a population's cultural traits in five datasets. 
-- Beginner friendly
-- Model code written in R, Matlab, or Julia
-- Data and code are [here](https://github.com/AlexandraWitt/PatternToProcess_COSMOS)
-
-**P9: Quantifying leadership in animal groups**
-(based on [Sridhar et al. (2023)](https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2022.0062))
-
-Explore the effect of different pairwise predictors on leadership / social influence within groups of golden shiner fish and/or pigeons.
-
-- Beginner friendly
 - Model code written in Python
-- Data are [here](https://owncloud.gwdg.de/index.php/s/qH9ARKUWpgkfluZ) and code is [here](https://github.com/vivekhsridhar/INFL_2022)
+- Data are [here](https://github.com/daeh/computed-appraisals)
