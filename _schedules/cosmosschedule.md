@@ -147,7 +147,7 @@ schedule:
   - name: Friday
     events:
       - name: Group presentations 1
-        start: 9:00 AM
+        start: 10:00 AM
         end: 12:00 PM
         class: group
       - name: Lunch & Discussion 
