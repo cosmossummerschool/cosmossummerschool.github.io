@@ -8,4 +8,4 @@ title: "Tutorial 2:  Models of social and individual learning - Charley Wu & Wat
 
 [slides](https://cosmossummerschool.github.io/downloads/CosmosTutorial2.pdf){:target="_blank"}
 
-*Video recording coming soon*
+{% include youtube.html id='QNAhVcVfdKk' %}

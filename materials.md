@@ -10,7 +10,22 @@ description: Course materials
 {{ module }}
 {% endfor %}
 
+# COSMOS 2025 - Talk recordings
 
+**Tatsuya Kameda - Keynote**<br>
+{% include youtube.html id='Oc65uwpkGyM' %}
+
+**Damien Farine - The ecology of collective movements**<br>
+{% include youtube.html id='JJCGvZK03D0' %}
+
+**Lusha Zhu - Inference in Games: From social learning to knowledge alignment**<br>
+{% include youtube.html id='yzWVnc754Z8' %}
+
+**Mayuko Nakamaru - Can cooperators avoid being deceived by gossips from uncooperative liars?**<br>
+{% include youtube.html id='oVS8pvs_LgU' %}
+
+**Joseph Austerweil - Understanding knowledge using Markov Chain Monte Carlo (MCMC) with People**<br>
+{% include youtube.html id='JHMsVB4DES4' %}
 
 
 

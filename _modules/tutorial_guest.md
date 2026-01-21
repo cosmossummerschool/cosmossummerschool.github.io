@@ -6,4 +6,4 @@ title: "Guest tutorial: Modeling social cognition using memo - Lio Wong & Kartik
 
 [sidebar slides](https://cosmossummerschool.github.io/downloads/memo-tutorial-sidebar.pdf){:target="_blank"}
 
-*Video recording coming soon*
+{% include youtube.html id='6nZ60Luy7Ac' %}

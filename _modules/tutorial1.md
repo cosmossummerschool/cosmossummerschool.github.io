@@ -6,4 +6,4 @@ title: "Tutorial 1: Designing a social learning environment - Charley Wu & Watar
 
 [slides](https://cosmossummerschool.github.io/downloads/CosmosTutorial1.pdf){:target="_blank"}
 
-*Video recording coming soon*
+{% include youtube.html id='LLb-Vy6yfvQ' %}
