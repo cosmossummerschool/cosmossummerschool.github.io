@@ -17,6 +17,10 @@ description: A listing of all the course staff members.
 {{ staffer }}
 {% endfor %}
 
+{% assign organizers = site.instructors | where: 'role', 'Organizer3' %}
+{% for staffer in organizers %}
+{{ staffer }}
+{% endfor %}
 ## Keynote
 
 {% assign keynote = site.instructors | where: 'role', 'Keynote' %}
