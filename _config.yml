@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: COSMOS 
-tagline: COSMOS Summer School - Tokyo 2025
+tagline: COSMOS Summer School - Darmstadt 2027
 description: The Computational Summer school on Modeling Social and collective behavior (COSMOS)
 author: Charley Wu and Wataru Toyokawa
 baseurl: '' # need to add this for the live version
