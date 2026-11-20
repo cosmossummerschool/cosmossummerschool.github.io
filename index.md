@@ -13,7 +13,7 @@ seo:
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-<img src="{{site.baseurl}}/assets/images/Darmstadt.jpg" title="Photo by A.Savin, Wikipedia under FAL">
+<img src="{{site.baseurl}}/assets/images/Darmstadt.jpg" title="(C) TU Darmstadt 2021, Foto: Sascha Mannel">
 
 {% if site.announcements %}
 {{ site.announcements.last }}
